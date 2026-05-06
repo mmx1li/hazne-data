@@ -1,1 +1,167 @@
-
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-05-07",
+  "source": "manual",
+  "prices": [
+    {
+      "code": "ODP",
+      "name": "Osmanlı Portföy Birinci Serbest Fon",
+      "rate": 1.8292
+    },
+    {
+      "code": "FBV",
+      "name": "İş Portföy Model Serbest Fon",
+      "rate": 1.8136
+    },
+    {
+      "code": "MOZ",
+      "name": "Emaa Blue Portföy Mozaik Serbest Fon",
+      "rate": 1.2792
+    },
+    {
+      "code": "RTP",
+      "name": "Re-Pie Portföy Birinci Serbest Fon",
+      "rate": 1.2732
+    },
+    {
+      "code": "TLY",
+      "name": "Tera Portföy Birinci Serbest Fon",
+      "rate": 1.1601
+    },
+    {
+      "code": "BSM",
+      "name": "Global MD Portföy Berrak Serbest Fon",
+      "rate": 0.4600
+    },
+    {
+      "code": "IIE",
+      "name": "Bulls Portföy İkinci Serbest Fon",
+      "rate": 0.4231
+    },
+    {
+      "code": "GZN",
+      "name": "Global MD Portföy Boğaziçi Serbest Fon",
+      "rate": 0.3971
+    },
+    {
+      "code": "SKZ",
+      "name": "Neo Portföy Sekizinci Serbest Fon",
+      "rate": 0.3508
+    },
+    {
+      "code": "GZM",
+      "name": "Global MD Portföy Duru Serbest Fon",
+      "rate": 0.3109
+    },
+    {
+      "code": "PPS",
+      "name": "Phillip Portföy Birinci Serbest Fon",
+      "rate": -0.5331
+    },
+    {
+      "code": "IOG",
+      "name": "İş Portföy Gümüş Serbest Fon",
+      "rate": 4.3481
+    },
+    {
+      "code": "FPG",
+      "name": "Fiba Portföy Gümüş Serbest Fon",
+      "rate": 3.3791
+    },
+    {
+      "code": "FMG",
+      "name": "QNB Portföy Gümüş Serbest Fon",
+      "rate": 1.6930
+    },
+    {
+      "code": "GMI",
+      "name": "Ak Portföy Gümüş Serbest Fon",
+      "rate": 0.0250
+    },
+    {
+      "code": "RGD",
+      "name": "Re-Pie Portföy Agresif Değişken Fon",
+      "rate": 3.1973
+    },
+    {
+      "code": "BHF",
+      "name": "Pardus Portföy Birinci Değişken Fon",
+      "rate": 2.7635
+    },
+    {
+      "code": "IED",
+      "name": "İş Portföy Agresif Değişken Fon",
+      "rate": 2.6448
+    },
+    {
+      "code": "URA",
+      "name": "Ata Portföy Enerji Değişken Fon",
+      "rate": 2.3586
+    },
+    {
+      "code": "CPT",
+      "name": "Rota Portföy Çip Teknolojileri Değişken Fon",
+      "rate": 2.2933
+    },
+    {
+      "code": "RTG",
+      "name": "Ata Portföy Robotik Teknolojileri Değişken Fon",
+      "rate": 2.2280
+    },
+    {
+      "code": "IJC",
+      "name": "İş Portföy Yarı İletken Teknolojileri Değişken Fon",
+      "rate": 1.8550
+    },
+    {
+      "code": "PIL",
+      "name": "Rota Portföy Pil Teknolojileri ve Enerji Fon Sepeti Fonu",
+      "rate": 1.6926
+    },
+    {
+      "code": "MD1",
+      "name": "MT Portföy Birinci Değişken Fon",
+      "rate": 1.4459
+    },
+    {
+      "code": "HIZ",
+      "name": "Azimut Portföy Dinamik Değişken Fon",
+      "rate": 1.1726
+    },
+    {
+      "code": "RIK",
+      "name": "Re-Pie Portföy İkinci Değişken Fon",
+      "rate": 0.9546
+    },
+    {
+      "code": "MTD",
+      "name": "BV Portföy Malzeme Teknolojileri Değişken Fon",
+      "rate": 0.5814
+    },
+    {
+      "code": "ICH",
+      "name": "Pardus Portföy İkinci Değişken Fon",
+      "rate": 0.4814
+    },
+    {
+      "code": "IPB",
+      "name": "İstanbul Portföy Birinci Değişken Fon",
+      "rate": 0.4605
+    },
+    {
+      "code": "EVM",
+      "name": "Deniz Portföy Enerji ve Madencilik Sektörü Değişken Fon",
+      "rate": 0.4208
+    },
+    {
+      "code": "BVD",
+      "name": "BV Portföy Birinci Değişken Fon",
+      "rate": 0.1168
+    },
+    {
+      "code": "TGE",
+      "name": "İş Portföy Emtia Yabancı BYF Fon Sepeti Fonu",
+      "rate": -1.5710
+    }
+  ]
+}
