@@ -26,12 +26,12 @@
     {
       "code": "TLY",
       "name": "Tera Portföy Birinci Serbest Fon",
-      "rate": 0.9186
+      "rate": -0.03
     },
     {
       "code": "TMV",
       "name": "TERA",
-      "rate": 0.7721
+      "rate": -2.62
     }
   ]
 }
