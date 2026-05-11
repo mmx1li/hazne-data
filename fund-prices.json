@@ -4,26 +4,6 @@
   "source": "manual",
   "prices": [
     {
-      "code": "ODP",
-      "name": "Osmanlı Portföy Birinci Serbest Fon",
-      "rate": 1.8292
-    },
-    {
-      "code": "FBV",
-      "name": "İş Portföy Model Serbest Fon",
-      "rate": 1.8136
-    },
-    {
-      "code": "MOZ",
-      "name": "Emaa Blue Portföy Mozaik Serbest Fon",
-      "rate": 1.2792
-    },
-    {
-      "code": "RTP",
-      "name": "Re-Pie Portföy Birinci Serbest Fon",
-      "rate": 1.2732
-    },
-    {
       "code": "TLY",
       "name": "Tera Portföy Birinci Serbest Fon",
       "rate": 1.07
