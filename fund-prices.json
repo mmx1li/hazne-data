@@ -1,20 +1,24 @@
 {
   "schemaVersion": 1,
   "lastUpdated": [
-    "2026-05-20",
-    "2026-05-19"
+    "2026-05-22"
   ],
   "source": "manual",
   "prices": [
     {
       "code": "TLY",
       "name": "Tera Portföy Birinci Serbest Fon",
-      "rate": 0.71
+      "rate": -4.22
     },
     {
       "code": "TMV",
       "name": "TERA",
-      "rate": 1.53
+      "rate": -4.54
+    },
+    {
+      "code": "DFI",
+      "name": "Atlas",
+      "rate": 0.4
     }
   ]
 }
