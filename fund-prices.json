@@ -25,6 +25,11 @@
       "code": "PHE",
       "name": "TERA",
       "rate": 0.6639
+    },
+    {
+      "code": "DFI",
+      "name": "TERA",
+      "rate": 0.25
     }
   ]
 }
