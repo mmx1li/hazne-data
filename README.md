@@ -1,1 +1,21 @@
 # hazne-data
+
+sample format:
+
+{
+  "schemaVersion": 1,
+  "lastUpdated": ["2026-06-10"],
+  "source": "manual",
+  "prices": [
+    {
+      "code": "TLY",
+      "name": "TERA",
+      "rate": 0.9
+    },
+    {
+      "code": "TMV",
+      "name": "TERA",
+      "rate": 1.4
+    }
+  ]
+}
