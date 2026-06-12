@@ -1,17 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": ["2026-06-11"],
+  "lastUpdated": ["2026-06-13",
+    "2026-06-14","2026-06-15"
+  ],
   "source": "manual",
   "prices": [
     {
       "code": "TLY",
       "name": "TERA",
-      "rate": 0.9
+      "rate": 1.007
     },
     {
       "code": "TMV",
       "name": "TERA",
-      "rate": 1.4
+      "rate": 1.47
     }
   ]
 }
