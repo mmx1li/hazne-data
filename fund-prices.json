@@ -13,6 +13,16 @@
       "code": "PHE",
       "name": "PUSULA",
       "rate": 1.013
+    },
+    {
+      "code": "TLY",
+      "name": "TERA",
+      "rate": 1.08
+    },
+    {
+      "code": "TMV",
+      "name": "TERA",
+      "rate": 1.3
     }
   ]
 }
