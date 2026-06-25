@@ -7,7 +7,22 @@
     {
       "code": "TLY",
       "name": "TERA",
-      "rate": 0.0
+      "rate": 0.74
+    },
+     {
+      "code": "TMV",
+      "name": "TERA",
+      "rate": 0.63
+    },
+     {
+      "code": "PBR",
+      "name": "TERA",
+      "rate": 0.45
+    },
+     {
+      "code": "PHE",
+      "name": "TERA",
+      "rate": 0.25
     }
   ]
 }
