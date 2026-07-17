@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": ["2026-07-20"],
+  "lastUpdated": ["2026-07-18","2026-07-19","2026-07-20"],
   "source": "manual",
   "prices": [
     { "code": "NMU", "name": "Nurol", "rate": 0.6034 },
