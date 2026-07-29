@@ -1,96 +1,584 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": ["2026-07-29"],
+  "lastUpdated": [
+    "2026-07-30"
+  ],
   "source": "manual",
   "prices": [
-    { "code": "NSH", "name": "Nurol", "rate": 0.1796 },
-    { "code": "IRB", "name": "İstanbul", "rate": 0.1352 },
-    { "code": "BHI", "name": "BV", "rate": 0.1309 },
-    { "code": "NMU", "name": "Nurol", "rate": 0.1142 },
-    { "code": "PPM", "name": "Piramit", "rate": 0.0795 },
-    { "code": "LPH", "name": "Statech", "rate": 0.0367 },
-    { "code": "TP2", "name": "Tera", "rate": 0.1342 },
-    { "code": "MT2", "name": "MT", "rate": 0.124 },
-    { "code": "FIL", "name": "Fiba", "rate": 0.1192 },
-    { "code": "MPL", "name": "MT", "rate": 0.1154 },
-    { "code": "PPJ", "name": "Ak", "rate": 0.109 },
-    { "code": "PTE", "name": "TEB", "rate": 0.1077 },
-    { "code": "DCB", "name": "Deniz", "rate": 0.1071 },
-    { "code": "FSF", "name": "Fiba", "rate": 0.1069 },
-    { "code": "PPN", "name": "Nurol", "rate": 0.1061 },
-    { "code": "NSP", "name": "Nurol", "rate": 0.1059 },
-    { "code": "BGP", "name": "Ak", "rate": 0.1055 },
-    { "code": "TLV", "name": "Tera", "rate": 0.1024 },
-    { "code": "AIS", "name": "Ak", "rate": 0.1012 },
-    { "code": "FSK", "name": "QNB", "rate": 0.0968 },
-    { "code": "TRJ", "name": "Tera", "rate": 0.1408 },
-    { "code": "BBF", "name": "Pardus", "rate": 0.1335 },
-    { "code": "NJR", "name": "Nurol", "rate": 0.0938 },
-    { "code": "TFU", "name": "İş", "rate": 0.0735 },
-    { "code": "MBR", "name": "MT", "rate": -0.0476 },
-    { "code": "PPS", "name": "Phillip", "rate": 1.822 },
-    { "code": "TLY", "name": "Tera", "rate": 0.4332 },
-    { "code": "GZM", "name": "Global MD", "rate": 0.2079 },
-    { "code": "BSM", "name": "Global MD", "rate": 0.1893 },
-    { "code": "SKZ", "name": "Neo", "rate": -0.3482 },
-    { "code": "FBV", "name": "İş", "rate": -0.7101 },
-    { "code": "DKR", "name": "Deniz", "rate": -1.2727 },
-    { "code": "RTP", "name": "Re-Pie", "rate": -1.4243 },
-    { "code": "MOZ", "name": "Emaa Blue", "rate": -1.9214 },
-    { "code": "ODP", "name": "Osmanlı", "rate": -2.8656 },
-    { "code": "RGD", "name": "Re-Pie", "rate": 0.3791 },
-    { "code": "IPB", "name": "İstanbul", "rate": 0.18 },
-    { "code": "RIK", "name": "Re-Pie", "rate": -0.0959 },
-    { "code": "ICH", "name": "Pardus", "rate": -0.2008 },
-    { "code": "BVD", "name": "BV", "rate": -0.214 },
-    { "code": "IED", "name": "İş", "rate": -0.2401 },
-    { "code": "EBD", "name": "Global MD", "rate": -0.2808 },
-    { "code": "BHF", "name": "Pardus", "rate": -0.3774 },
-    { "code": "MD1", "name": "MT", "rate": -0.5818 },
-    { "code": "EVM", "name": "Deniz", "rate": -1.0657 },
-    { "code": "TGE", "name": "İş", "rate": -1.2964 },
-    { "code": "HIZ", "name": "Azimut", "rate": -1.7724 },
-    { "code": "PIL", "name": "Rota", "rate": -1.9124 },
-    { "code": "MTD", "name": "BV", "rate": -2.6188 },
-    { "code": "CPT", "name": "Rota", "rate": -2.9049 },
-    { "code": "CPU", "name": "Aktif", "rate": -3.1237 },
-    { "code": "RTG", "name": "Ata", "rate": -3.1508 },
-    { "code": "URA", "name": "Ata", "rate": -3.1905 },
-    { "code": "IJC", "name": "İş", "rate": -4.3999 },
-    { "code": "YZT", "name": "Ak", "rate": -4.4054 },
-    { "code": "NTI", "name": "Neo", "rate": -4.5297 },
-    { "code": "RIH", "name": "Re-Pie", "rate": 11.9575 },
-    { "code": "RDF", "name": "Rota", "rate": 0.5096 },
-    { "code": "THF", "name": "Tera", "rate": 0.3543 },
-    { "code": "NLE", "name": "Nurol", "rate": 0.3515 },
-    { "code": "LTL", "name": "Ahlatcı", "rate": 0.2868 },
-    { "code": "RTH", "name": "Re-Pie", "rate": 0.2615 },
-    { "code": "MTH", "name": "MT", "rate": 0.0844 },
-    { "code": "PTO", "name": "Pardus", "rate": 0.0496 },
-    { "code": "ONE", "name": "Aktif", "rate": -0.021 },
-    { "code": "BDS", "name": "Pardus", "rate": -0.0692 },
-    { "code": "RHI", "name": "Re-Pie", "rate": -0.3052 },
-    { "code": "GLG", "name": "Aktif", "rate": -0.3765 },
-    { "code": "BIY", "name": "Azimut", "rate": -0.5849 },
-    { "code": "MLT", "name": "Deniz", "rate": -0.8125 },
-    { "code": "BV1", "name": "BV", "rate": -0.8371 },
-    { "code": "PPH", "name": "Pardus", "rate": -0.9024 },
-    { "code": "NUH", "name": "Neo", "rate": -1.0897 },
-    { "code": "KHA", "name": "Pardus", "rate": -1.2119 },
-    { "code": "DOH", "name": "Tera", "rate": -1.5207 },
-    { "code": "HRZ", "name": "Aktif", "rate": -1.7824 },
-    { "code": "MHF", "name": "MT", "rate": -1.8426 },
-    { "code": "NPH", "name": "Nurol", "rate": -2.3939 },
-    { "code": "SRL", "name": "Pardus", "rate": -2.4229 },
-    { "code": "AFA", "name": "Ak", "rate": -0.3453 },
-    { "code": "AFV", "name": "Ak", "rate": -0.568 },
-    { "code": "TMG", "name": "İş", "rate": -0.7549 },
-    { "code": "AFT", "name": "Ak", "rate": -4.1534 },
-    { "code": "YAY", "name": "Yapı Kredi", "rate": -4.517 },
-    { "code": "GMI", "name": "Ak", "rate": 0.0426 },
-    { "code": "FMG", "name": "QNB", "rate": -0.7224 },
-    { "code": "FPG", "name": "Fiba", "rate": -1.924 },
-    { "code": "IOG", "name": "İş", "rate": -2.4375 },
-    { "code": "TMV", "name": "Tera", "rate": 1.6353 }
+    {
+      "code": "GOL",
+      "name": "Garanti",
+      "rate": 1.4017
+    },
+    {
+      "code": "GTA",
+      "name": "Garanti",
+      "rate": 1.2981
+    },
+    {
+      "code": "YKT",
+      "name": "Yapı Kredi",
+      "rate": 1.1165
+    },
+    {
+      "code": "TCA",
+      "name": "Ziraat",
+      "rate": 0.9886
+    },
+    {
+      "code": "KMN",
+      "name": "Yapı Kredi",
+      "rate": 0.7386
+    },
+    {
+      "code": "SHC",
+      "name": "Strateji",
+      "rate": 0.0726
+    },
+    {
+      "code": "GOH",
+      "name": "Garanti",
+      "rate": -0.4875
+    },
+    {
+      "code": "YHB",
+      "name": "Yapı Kredi",
+      "rate": -0.5667
+    },
+    {
+      "code": "TZD",
+      "name": "Ziraat",
+      "rate": -0.8527
+    },
+    {
+      "code": "GHS",
+      "name": "Garanti",
+      "rate": -1.0255
+    },
+    {
+      "code": "YHS",
+      "name": "Yapı Kredi",
+      "rate": -1.0273
+    },
+    {
+      "code": "YHK",
+      "name": "Yapı Kredi",
+      "rate": -1.1156
+    },
+    {
+      "code": "ZPE",
+      "name": "Ziraat",
+      "rate": -1.1363
+    },
+    {
+      "code": "GKV",
+      "name": "Garanti",
+      "rate": -1.1487
+    },
+    {
+      "code": "ZJL",
+      "name": "Ziraat",
+      "rate": -1.1711
+    },
+    {
+      "code": "SKO",
+      "name": "Strateji",
+      "rate": -1.4625
+    },
+    {
+      "code": "ENR",
+      "name": "QNB",
+      "rate": 0.1229
+    },
+    {
+      "code": "YLB",
+      "name": "Yapı Kredi",
+      "rate": 0.1179
+    },
+    {
+      "code": "GTL",
+      "name": "Garanti",
+      "rate": 0.1167
+    },
+    {
+      "code": "TI1",
+      "name": "İş",
+      "rate": 0.1144
+    },
+    {
+      "code": "VK6",
+      "name": "V",
+      "rate": 0.1135
+    },
+    {
+      "code": "DLY",
+      "name": "Deniz",
+      "rate": 0.1134
+    },
+    {
+      "code": "TZL",
+      "name": "Ziraat",
+      "rate": 0.113
+    },
+    {
+      "code": "ALE",
+      "name": "Ak",
+      "rate": 0.113
+    },
+    {
+      "code": "TKM",
+      "name": "TEB",
+      "rate": 0.1078
+    },
+    {
+      "code": "YAE",
+      "name": "Yapı Kredi",
+      "rate": 0.1574
+    },
+    {
+      "code": "AN1",
+      "name": "Strateji",
+      "rate": -0.3877
+    },
+    {
+      "code": "YZC",
+      "name": "Yapı Kredi",
+      "rate": -0.5449
+    },
+    {
+      "code": "BHI",
+      "name": "BV",
+      "rate": 0.2276
+    },
+    {
+      "code": "NSH",
+      "name": "Nurol",
+      "rate": 0.201
+    },
+    {
+      "code": "IRB",
+      "name": "İstanbul",
+      "rate": 0.1848
+    },
+    {
+      "code": "PPM",
+      "name": "Piramit",
+      "rate": 0.1811
+    },
+    {
+      "code": "NMU",
+      "name": "Nurol",
+      "rate": 0.1257
+    },
+    {
+      "code": "LPH",
+      "name": "Statech",
+      "rate": -2.4642
+    },
+    {
+      "code": "TP2",
+      "name": "Tera",
+      "rate": 0.1346
+    },
+    {
+      "code": "FSK",
+      "name": "QNB",
+      "rate": 0.1238
+    },
+    {
+      "code": "MT2",
+      "name": "MT",
+      "rate": 0.1217
+    },
+    {
+      "code": "PPN",
+      "name": "Nurol",
+      "rate": 0.1198
+    },
+    {
+      "code": "MPL",
+      "name": "MT",
+      "rate": 0.1151
+    },
+    {
+      "code": "BGP",
+      "name": "Ak",
+      "rate": 0.1132
+    },
+    {
+      "code": "PPJ",
+      "name": "Ak",
+      "rate": 0.109
+    },
+    {
+      "code": "TLV",
+      "name": "Tera",
+      "rate": 0.109
+    },
+    {
+      "code": "PTE",
+      "name": "TEB",
+      "rate": 0.1077
+    },
+    {
+      "code": "FSF",
+      "name": "Fiba",
+      "rate": 0.1072
+    },
+    {
+      "code": "DCB",
+      "name": "Deniz",
+      "rate": 0.1071
+    },
+    {
+      "code": "NSP",
+      "name": "Nurol",
+      "rate": 0.106
+    },
+    {
+      "code": "FIL",
+      "name": "Fiba",
+      "rate": 0.1053
+    },
+    {
+      "code": "AIS",
+      "name": "Ak",
+      "rate": 0.1039
+    },
+    {
+      "code": "TRJ",
+      "name": "Tera",
+      "rate": 0.1675
+    },
+    {
+      "code": "NJR",
+      "name": "Nurol",
+      "rate": 0.1246
+    },
+    {
+      "code": "BBF",
+      "name": "Pardus",
+      "rate": 0.0881
+    },
+    {
+      "code": "TFU",
+      "name": "İş",
+      "rate": 0.0734
+    },
+    {
+      "code": "MBR",
+      "name": "MT",
+      "rate": -0.0647
+    },
+    {
+      "code": "RIH",
+      "name": "Re-Pie",
+      "rate": 10.5378
+    },
+    {
+      "code": "SRL",
+      "name": "Pardus",
+      "rate": 0.1901
+    },
+    {
+      "code": "KHA",
+      "name": "Pardus",
+      "rate": 0.0623
+    },
+    {
+      "code": "MTH",
+      "name": "MT",
+      "rate": -0.0432
+    },
+    {
+      "code": "PPH",
+      "name": "Pardus",
+      "rate": -0.4451
+    },
+    {
+      "code": "RHI",
+      "name": "Re-Pie",
+      "rate": -0.4662
+    },
+    {
+      "code": "RDF",
+      "name": "Rota",
+      "rate": -0.5759
+    },
+    {
+      "code": "RTH",
+      "name": "Re-Pie",
+      "rate": -0.7805
+    },
+    {
+      "code": "LTL",
+      "name": "Ahlatcı",
+      "rate": -0.8175
+    },
+    {
+      "code": "NLE",
+      "name": "Nurol",
+      "rate": -0.8209
+    },
+    {
+      "code": "BIY",
+      "name": "Azimut",
+      "rate": -1.0305
+    },
+    {
+      "code": "THF",
+      "name": "Tera",
+      "rate": -1.098
+    },
+    {
+      "code": "GLG",
+      "name": "Aktif",
+      "rate": -1.3243
+    },
+    {
+      "code": "NPH",
+      "name": "Nurol",
+      "rate": -1.3655
+    },
+    {
+      "code": "MHF",
+      "name": "MT",
+      "rate": -1.5435
+    },
+    {
+      "code": "DOH",
+      "name": "Tera",
+      "rate": -1.6549
+    },
+    {
+      "code": "NUH",
+      "name": "Neo",
+      "rate": -1.6875
+    },
+    {
+      "code": "BDS",
+      "name": "Pardus",
+      "rate": -1.7357
+    },
+    {
+      "code": "ONE",
+      "name": "Aktif",
+      "rate": -1.7491
+    },
+    {
+      "code": "MLT",
+      "name": "Deniz",
+      "rate": -1.9204
+    },
+    {
+      "code": "BV1",
+      "name": "BV",
+      "rate": -1.9812
+    },
+    {
+      "code": "HRZ",
+      "name": "Aktif",
+      "rate": -3.0028
+    },
+    {
+      "code": "YAY",
+      "name": "Yapı Kredi",
+      "rate": 0.4854
+    },
+    {
+      "code": "AFV",
+      "name": "Ak",
+      "rate": 0.3525
+    },
+    {
+      "code": "TMG",
+      "name": "İş",
+      "rate": 0.1821
+    },
+    {
+      "code": "AFT",
+      "name": "Ak",
+      "rate": -0.1052
+    },
+    {
+      "code": "AFA",
+      "name": "Ak",
+      "rate": -0.2138
+    },
+    {
+      "code": "IOG",
+      "name": "İş",
+      "rate": 0.1715
+    },
+    {
+      "code": "FPG",
+      "name": "Fiba",
+      "rate": -0.0098
+    },
+    {
+      "code": "FMG",
+      "name": "QNB",
+      "rate": -0.344
+    },
+    {
+      "code": "GMI",
+      "name": "Ak",
+      "rate": -0.5112
+    },
+    {
+      "code": "PPS",
+      "name": "Phillip",
+      "rate": 2.534
+    },
+    {
+      "code": "FBV",
+      "name": "İş",
+      "rate": 0.6826
+    },
+    {
+      "code": "GZM",
+      "name": "Global MD",
+      "rate": 0.0469
+    },
+    {
+      "code": "BSM",
+      "name": "Global MD",
+      "rate": 0.0074
+    },
+    {
+      "code": "SKZ",
+      "name": "Neo",
+      "rate": -0.0789
+    },
+    {
+      "code": "MOZ",
+      "name": "Emaa Blue",
+      "rate": -0.231
+    },
+    {
+      "code": "ODP",
+      "name": "Osmanlı",
+      "rate": -0.2483
+    },
+    {
+      "code": "TLY",
+      "name": "Tera",
+      "rate": -0.4187
+    },
+    {
+      "code": "DKR",
+      "name": "Deniz",
+      "rate": -0.8905
+    },
+    {
+      "code": "RTP",
+      "name": "Re-Pie",
+      "rate": -1.1299
+    },
+    {
+      "code": "TGE",
+      "name": "İş",
+      "rate": 0.7398
+    },
+    {
+      "code": "YZT",
+      "name": "Ak",
+      "rate": 0.2603
+    },
+    {
+      "code": "EBD",
+      "name": "Global MD",
+      "rate": 0.1503
+    },
+    {
+      "code": "ICH",
+      "name": "Pardus",
+      "rate": -0.0916
+    },
+    {
+      "code": "RGD",
+      "name": "Re-Pie",
+      "rate": -0.0936
+    },
+    {
+      "code": "BVD",
+      "name": "BV",
+      "rate": -0.218
+    },
+    {
+      "code": "MTD",
+      "name": "BV",
+      "rate": -0.4031
+    },
+    {
+      "code": "PIL",
+      "name": "Rota",
+      "rate": -0.4479
+    },
+    {
+      "code": "NTI",
+      "name": "Neo",
+      "rate": -0.466
+    },
+    {
+      "code": "CPU",
+      "name": "Aktif",
+      "rate": -0.4758
+    },
+    {
+      "code": "MD1",
+      "name": "MT",
+      "rate": -0.4953
+    },
+    {
+      "code": "EVM",
+      "name": "Deniz",
+      "rate": -0.5067
+    },
+    {
+      "code": "IPB",
+      "name": "İstanbul",
+      "rate": -0.5172
+    },
+    {
+      "code": "HIZ",
+      "name": "Azimut",
+      "rate": -0.5807
+    },
+    {
+      "code": "IJC",
+      "name": "İş",
+      "rate": -0.6668
+    },
+    {
+      "code": "IED",
+      "name": "İş",
+      "rate": -0.8177
+    },
+    {
+      "code": "BHF",
+      "name": "Pardus",
+      "rate": -0.919
+    },
+    {
+      "code": "URA",
+      "name": "Ata",
+      "rate": -1.3334
+    },
+    {
+      "code": "RTG",
+      "name": "Ata",
+      "rate": -2.086
+    },
+    {
+      "code": "CPT",
+      "name": "Rota",
+      "rate": -2.223
+    },
+    {
+      "code": "RIK",
+      "name": "Re-Pie",
+      "rate": -2.2999
+    }
   ]
 }
