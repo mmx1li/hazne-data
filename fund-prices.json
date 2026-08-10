@@ -4,11 +4,19 @@
     "2026-08-11"
   ],
   "source": "manual",
-  "prices": [
+  "prices": [{
+      "code": "THF",
+      "name": "Yapı Kredi",
+      "rate": 1.20485
+    },
     {
       "code": "YHZ",
       "name": "Yapı Kredi",
       "rate": 2.0485
+    }, {
+      "code": "DKR",
+      "name": "Yapı Kredi",
+      "rate": -5.98
     },
     {
       "code": "SSS",
