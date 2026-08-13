@@ -512,4 +512,223 @@
     },
     {
       "code": "PAF",
-      "name
+      "name": "Bilinmiyor",
+      "rate": -0.6185
+    },
+    {
+      "code": "PBI",
+      "name": "Bilinmiyor",
+      "rate": 0.011
+    },
+    {
+      "code": "PBN",
+      "name": "Bilinmiyor",
+      "rate": 1.1352
+    },
+    {
+      "code": "PPH",
+      "name": "Pardus",
+      "rate": 1.2309
+    },
+    {
+      "code": "PPS",
+      "name": "Phillip",
+      "rate": -3.8104
+    },
+    {
+      "code": "PTO",
+      "name": "Pardus",
+      "rate": 0.2928
+    },
+    {
+      "code": "RHI",
+      "name": "Re-Pie",
+      "rate": -0.2988
+    },
+    {
+      "code": "RIH",
+      "name": "Re-Pie",
+      "rate": -0.4647
+    },
+    {
+      "code": "RIK",
+      "name": "Re-Pie",
+      "rate": 0.0134
+    },
+    {
+      "code": "RPD",
+      "name": "Bilinmiyor",
+      "rate": -0.1669
+    },
+    {
+      "code": "RTG",
+      "name": "Ata",
+      "rate": 2.0282
+    },
+    {
+      "code": "RTP",
+      "name": "Re-Pie",
+      "rate": -0.8731
+    },
+    {
+      "code": "SAS",
+      "name": "Bilinmiyor",
+      "rate": 0.5704
+    },
+    {
+      "code": "SKZ",
+      "name": "Neo",
+      "rate": 0.1122
+    },
+    {
+      "code": "SRL",
+      "name": "Pardus",
+      "rate": 0.209
+    },
+    {
+      "code": "SVB",
+      "name": "Strateji",
+      "rate": 0.1879
+    },
+    {
+      "code": "TAR",
+      "name": "Bilinmiyor",
+      "rate": 0.7757
+    },
+    {
+      "code": "TAU",
+      "name": "Bilinmiyor",
+      "rate": -0.2372
+    },
+    {
+      "code": "TGA",
+      "name": "Garanti",
+      "rate": 0.2418
+    },
+    {
+      "code": "TGE",
+      "name": "İş",
+      "rate": -1.1062
+    },
+    {
+      "code": "TGR",
+      "name": "Bilinmiyor",
+      "rate": 0.7228
+    },
+    {
+      "code": "THD",
+      "name": "Bilinmiyor",
+      "rate": 0.1336
+    },
+    {
+      "code": "THF",
+      "name": "Tera",
+      "rate": 1.6069
+    },
+    {
+      "code": "THT",
+      "name": "Bilinmiyor",
+      "rate": 3.5069
+    },
+    {
+      "code": "TI2",
+      "name": "Bilinmiyor",
+      "rate": -0.7471
+    },
+    {
+      "code": "TI3",
+      "name": "Bilinmiyor",
+      "rate": -0.3941
+    },
+    {
+      "code": "TI4",
+      "name": "Bilinmiyor",
+      "rate": 0.129
+    },
+    {
+      "code": "TI7",
+      "name": "Bilinmiyor",
+      "rate": 0.1545
+    },
+    {
+      "code": "TIE",
+      "name": "Bilinmiyor",
+      "rate": 0.3185
+    },
+    {
+      "code": "TLY",
+      "name": "Tera",
+      "rate": 0.6735
+    },
+    {
+      "code": "TMC",
+      "name": "Bilinmiyor",
+      "rate": -0.3286
+    },
+    {
+      "code": "TMG",
+      "name": "İş",
+      "rate": 0.3568
+    },
+    {
+      "code": "TMZ",
+      "name": "Bilinmiyor",
+      "rate": 0.0963
+    },
+    {
+      "code": "TND",
+      "name": "Bilinmiyor",
+      "rate": 0.1062
+    },
+    {
+      "code": "TTA",
+      "name": "Bilinmiyor",
+      "rate": -0.7021
+    },
+    {
+      "code": "TTE",
+      "name": "Bilinmiyor",
+      "rate": 1.1713
+    },
+    {
+      "code": "TYH",
+      "name": "TEB",
+      "rate": -0.1239
+    },
+    {
+      "code": "UNT",
+      "name": "Bilinmiyor",
+      "rate": 0.1058
+    },
+    {
+      "code": "VAY",
+      "name": "Bilinmiyor",
+      "rate": 0.0641
+    },
+    {
+      "code": "VCY",
+      "name": "Bilinmiyor",
+      "rate": 0.0156
+    },
+    {
+      "code": "YKT",
+      "name": "Yapı Kredi",
+      "rate": -0.6313
+    },
+    {
+      "code": "ZCD",
+      "name": "Bilinmiyor",
+      "rate": -0.5481
+    },
+    {
+      "code": "ZFB",
+      "name": "Bilinmiyor",
+      "rate": 1.3313
+    },
+    {
+      "code": "TMV",
+      "name": "Tera",
+      "rate": 0.95
+    }
+  ]
+}
