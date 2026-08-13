@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "lastUpdated": [
-    "2026-08-13"
+    "2026-08-14"
   ],
   "source": "manual",
   "prices": [
@@ -863,7 +863,7 @@
     {
       "code": "TMV",
       "name": "Tera",
-      "rate": 0.8296
+      "rate": 0.95
     }
   ]
 }
