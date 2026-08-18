@@ -17,6 +17,7 @@
 { "code": "MAC", "rate": -0.38 },
 { "code": "IPB", "rate": -0.44 },
 { "code": "TI3", "rate": -0.86 },
-{ "code": "TTE", "rate": -2.47 }
+{ "code": "TTE", "rate": -2.47 },
+{ "code": "TMV", "rate": 0.25 }
   ]
 }
