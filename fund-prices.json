@@ -1,1097 +1,917 @@
 {
   "schemaVersion": 1,
   "lastUpdated": [
-    "2026-08-21"
+    "2026-08-24"
   ],
   "source": "manual",
   "prices": [
     {
-      "code": "DHV",
-      "rate": 3.2129
-    },
-    {
-      "code": "ZTV",
-      "rate": 1.6844
-    },
-    {
-      "code": "DHJ",
-      "rate": 1.1966
-    },
-    {
-      "code": "GOH",
-      "rate": 1.0959
-    },
-    {
-      "code": "BDY",
-      "rate": 0.9617
-    },
-    {
-      "code": "YHB",
-      "rate": 0.9488
-    },
-    {
-      "code": "GRT",
-      "rate": 0.8754
-    },
-    {
-      "code": "SSS",
-      "rate": 0.6722
-    },
-    {
-      "code": "BGR",
-      "rate": 0.6423
-    },
-    {
-      "code": "ICZ",
-      "rate": 0.4595
-    },
-    {
-      "code": "YAS",
-      "rate": 0.362
-    },
-    {
-      "code": "GKV",
-      "rate": 0.3487
-    },
-    {
-      "code": "IDH",
-      "rate": 0.3139
-    },
-    {
-      "code": "DTL",
-      "rate": 0.3092
-    },
-    {
-      "code": "TI3",
-      "rate": 0.2293
-    },
-    {
-      "code": "KH1",
-      "rate": 0.2207
-    },
-    {
-      "code": "ZJL",
-      "rate": 0.1026
-    },
-    {
-      "code": "YHK",
-      "rate": 0.0198
-    },
-    {
-      "code": "KVT",
-      "rate": -0.0149
-    },
-    {
-      "code": "VHS",
-      "rate": -0.1214
-    },
-    {
-      "code": "DKH",
-      "rate": -0.1947
-    },
-    {
-      "code": "YHS",
-      "rate": -0.2141
-    },
-    {
-      "code": "HVS",
-      "rate": -0.3529
-    },
-    {
-      "code": "YLY",
-      "rate": -0.3586
-    },
-    {
-      "code": "YHZ",
-      "rate": -0.3954
-    },
-    {
-      "code": "ZPE",
-      "rate": -0.4129
-    },
-    {
-      "code": "GNS",
-      "rate": -0.4177
-    },
-    {
-      "code": "BIG",
-      "rate": -0.532
-    },
-    {
-      "code": "AK3",
-      "rate": -0.5747
-    },
-    {
-      "code": "TTE",
-      "rate": -0.6049
-    },
-    {
-      "code": "TYH",
-      "rate": -0.671
-    },
-    {
-      "code": "GKG",
-      "rate": -0.7206
-    },
-    {
-      "code": "GHS",
-      "rate": -0.7464
-    },
-    {
-      "code": "FYD",
-      "rate": -0.7527
-    },
-    {
-      "code": "HIH",
-      "rate": -0.809
-    },
-    {
-      "code": "TZD",
-      "rate": -0.8293
-    },
-    {
-      "code": "DAH",
-      "rate": -0.889
-    },
-    {
-      "code": "TI2",
-      "rate": -0.9079
-    },
-    {
-      "code": "MLT",
-      "rate": -0.9204
-    },
-    {
-      "code": "SAS",
-      "rate": -0.9652
-    },
-    {
-      "code": "ADP",
-      "rate": -1.6242
-    },
-    {
-      "code": "GBJ",
-      "rate": -1.6587
-    },
-    {
-      "code": "DDA",
-      "rate": -1.6795
-    },
-    {
-      "code": "TAU",
-      "rate": -1.6974
-    },
-    {
-      "code": "YCP",
-      "rate": -1.6992
-    },
-    {
-      "code": "YZH",
-      "rate": -1.724
-    },
-    {
-      "code": "DOH",
-      "rate": 2.6918
-    },
-    {
-      "code": "MHF",
-      "rate": 2.3882
-    },
-    {
-      "code": "THF",
-      "rate": 1.4902
-    },
-    {
-      "code": "BDS",
-      "rate": 1.3764
-    },
-    {
-      "code": "KHA",
-      "rate": 1.2493
-    },
-    {
-      "code": "IJI",
-      "rate": 1.0818
-    },
-    {
-      "code": "MTH",
-      "rate": 0.9641
-    },
-    {
-      "code": "HRZ",
-      "rate": 0.9017
-    },
-    {
-      "code": "PPH",
-      "rate": 0.8955
-    },
-    {
-      "code": "BIY",
-      "rate": 0.8284
-    },
-    {
-      "code": "SRL",
-      "rate": 0.4065
-    },
-    {
-      "code": "BIH",
-      "rate": 0.3933
-    },
-    {
-      "code": "NLE",
-      "rate": 0.3453
-    },
-    {
-      "code": "PTO",
-      "rate": 0.1854
-    },
-    {
-      "code": "NUH",
-      "rate": 0.1481
-    },
-    {
-      "code": "MTK",
-      "rate": 0.1202
-    },
-    {
-      "code": "GLG",
-      "rate": 0.0116
-    },
-    {
-      "code": "KOT",
-      "rate": -0.0207
-    },
-    {
-      "code": "NPH",
-      "rate": -0.0662
-    },
-    {
-      "code": "SKO",
-      "rate": -0.2302
-    },
-    {
-      "code": "RHI",
-      "rate": -0.2836
-    },
-    {
-      "code": "LTL",
-      "rate": -0.2883
-    },
-    {
-      "code": "MKA",
-      "rate": -0.3399
-    },
-    {
-      "code": "BV1",
-      "rate": -0.3948
-    },
-    {
-      "code": "RTH",
-      "rate": -0.4948
-    },
-    {
-      "code": "IDI",
-      "rate": -0.5619
-    },
-    {
-      "code": "ONE",
-      "rate": -0.6977
-    },
-    {
-      "code": "MAC",
-      "rate": -0.7755
-    },
-    {
-      "code": "MAS",
-      "rate": -1.2132
-    },
-    {
-      "code": "RDF",
-      "rate": -1.7412
-    },
-    {
-      "code": "RIH",
-      "rate": -3.1561
-    },
-    {
-      "code": "IPB",
-      "rate": 1.6246
-    },
-    {
-      "code": "MD1",
-      "rate": 1.3388
-    },
-    {
-      "code": "MD2",
-      "rate": 1.1856
-    },
-    {
-      "code": "BTK",
-      "rate": 0.9165
-    },
-    {
-      "code": "ICH",
-      "rate": 0.6717
-    },
-    {
-      "code": "RFM",
-      "rate": 0.5902
-    },
-    {
-      "code": "RTG",
-      "rate": 0.5766
-    },
-    {
-      "code": "RTD",
-      "rate": 0.5013
-    },
-    {
-      "code": "CPU",
-      "rate": 0.4334
-    },
-    {
-      "code": "RPM",
-      "rate": 0.4302
-    },
-    {
-      "code": "CPT",
-      "rate": 0.4016
-    },
-    {
-      "code": "CKF",
-      "rate": 0.3181
-    },
-    {
-      "code": "AN1",
-      "rate": 0.2757
-    },
-    {
-      "code": "SVB",
-      "rate": 0.2415
-    },
-    {
-      "code": "PIL",
-      "rate": 0.1098
-    },
-    {
-      "code": "RIK",
-      "rate": 0.0749
-    },
-    {
-      "code": "MTD",
-      "rate": 0.0555
-    },
-    {
-      "code": "ECA",
-      "rate": 0.053
-    },
-    {
-      "code": "BVV",
-      "rate": 0.0357
-    },
-    {
-      "code": "IRT",
-      "rate": 0.0141
-    },
-    {
-      "code": "HIZ",
-      "rate": 0.0089
-    },
-    {
-      "code": "SUC",
-      "rate": -0.0096
-    },
-    {
-      "code": "SGK",
-      "rate": -0.0808
-    },
-    {
-      "code": "BVD",
-      "rate": -0.0994
-    },
-    {
-      "code": "EGR",
-      "rate": -0.2259
-    },
-    {
-      "code": "RUT",
-      "rate": -0.2417
-    },
-    {
-      "code": "URA",
-      "rate": -0.4162
-    },
-    {
-      "code": "EBD",
-      "rate": -0.4343
-    },
-    {
-      "code": "NKP",
-      "rate": -0.6324
-    },
-    {
-      "code": "RGD",
-      "rate": -0.9795
-    },
-    {
-      "code": "NTI",
-      "rate": -1.1394
-    },
-    {
-      "code": "GPG",
-      "rate": -1.326
-    },
-    {
-      "code": "BHF",
-      "rate": -1.7727
-    },
-    {
-      "code": "PPS",
-      "rate": 2.9812
-    },
-    {
-      "code": "RTP",
-      "rate": 0.9707
-    },
-    {
       "code": "TMV",
-      "rate": 0.8257
+      "rate": 0.9916
     },
     {
       "code": "TLY",
-      "rate": 0.5214
-    },
-    {
-      "code": "SKZ",
-      "rate": 0.4095
+      "rate": 0.4747
     },
     {
       "code": "MOZ",
-      "rate": 0.2907
-    },
-    {
-      "code": "GZM",
-      "rate": 0.2014
-    },
-    {
-      "code": "RBR",
-      "rate": 0.1935
+      "rate": 0.4259
     },
     {
       "code": "BSM",
-      "rate": 0.1719
-    },
-    {
-      "code": "ODP",
-      "rate": -0.1747
+      "rate": 0.2964
     },
     {
       "code": "IHC",
-      "rate": -1.2801
+      "rate": 0.2317
     },
     {
-      "code": "ARE",
-      "rate": 0.4023
+      "code": "SKZ",
+      "rate": 0.1876
     },
     {
-      "code": "GBC",
-      "rate": -0.1139
+      "code": "RBR",
+      "rate": 0.1722
+    },
+    {
+      "code": "GZM",
+      "rate": 0.1465
+    },
+    {
+      "code": "RTP",
+      "rate": 0.0331
+    },
+    {
+      "code": "PPS",
+      "rate": -0.3351
     },
     {
       "code": "GBG",
-      "rate": -0.7355
+      "rate": 0.1273
     },
     {
-      "code": "KPF",
-      "rate": 0.424
+      "code": "ARE",
+      "rate": 0.125
     },
     {
-      "code": "LPH",
-      "rate": 0.4067
-    },
-    {
-      "code": "BHI",
-      "rate": 0.3266
-    },
-    {
-      "code": "PPM",
-      "rate": 0.3223
-    },
-    {
-      "code": "NMU",
-      "rate": 0.2921
-    },
-    {
-      "code": "NSH",
-      "rate": 0.2603
-    },
-    {
-      "code": "IRB",
-      "rate": 0.2396
-    },
-    {
-      "code": "TP2",
-      "rate": 0.1378
-    },
-    {
-      "code": "RBP",
-      "rate": 0.1262
-    },
-    {
-      "code": "AC4",
-      "rate": 0.1188
-    },
-    {
-      "code": "PPN",
-      "rate": 0.1168
-    },
-    {
-      "code": "MT2",
-      "rate": 0.1127
-    },
-    {
-      "code": "DAP",
-      "rate": 0.1113
-    },
-    {
-      "code": "MPL",
-      "rate": 0.1077
-    },
-    {
-      "code": "NSP",
-      "rate": 0.1066
-    },
-    {
-      "code": "TLV",
-      "rate": 0.1063
-    },
-    {
-      "code": "EP1",
-      "rate": 0.1044
-    },
-    {
-      "code": "MBR",
-      "rate": 0.4117
-    },
-    {
-      "code": "TRJ",
-      "rate": 0.1789
-    },
-    {
-      "code": "NJR",
-      "rate": 0.1409
-    },
-    {
-      "code": "BBF",
-      "rate": 0.0951
-    },
-    {
-      "code": "DMG",
-      "rate": 3.5009
-    },
-    {
-      "code": "KMN",
-      "rate": 2.9316
-    },
-    {
-      "code": "GOL",
-      "rate": 2.7793
-    },
-    {
-      "code": "GTA",
-      "rate": 2.7584
-    },
-    {
-      "code": "KCR",
-      "rate": 2.6802
-    },
-    {
-      "code": "OJK",
-      "rate": 2.6754
-    },
-    {
-      "code": "AFO",
-      "rate": 2.6587
-    },
-    {
-      "code": "VLT",
-      "rate": 2.6367
-    },
-    {
-      "code": "DBA",
-      "rate": 2.6283
-    },
-    {
-      "code": "YKT",
-      "rate": 2.4616
-    },
-    {
-      "code": "TUA",
-      "rate": 2.4277
-    },
-    {
-      "code": "HBF",
-      "rate": 2.3849
-    },
-    {
-      "code": "TCA",
-      "rate": 2.1773
-    },
-    {
-      "code": "TTA",
-      "rate": 2.1263
-    },
-    {
-      "code": "AFV",
-      "rate": 0.5669
-    },
-    {
-      "code": "AFT",
-      "rate": 0.1479
-    },
-    {
-      "code": "AFA",
-      "rate": 0.0616
-    },
-    {
-      "code": "YAY",
-      "rate": 0.0082
-    },
-    {
-      "code": "TMG",
-      "rate": -0.0269
-    },
-    {
-      "code": "MTG",
-      "rate": 0.6134
-    },
-    {
-      "code": "HMG",
-      "rate": 0.4117
-    },
-    {
-      "code": "YMH",
-      "rate": 0.3419
-    },
-    {
-      "code": "YVB",
-      "rate": 0.9255
-    },
-    {
-      "code": "GUV",
-      "rate": 0.8091
-    },
-    {
-      "code": "AK2",
-      "rate": 0.7833
-    },
-    {
-      "code": "DUV",
-      "rate": 0.7316
-    },
-    {
-      "code": "VKT",
-      "rate": 0.1719
-    },
-    {
-      "code": "YAE",
-      "rate": 0.1632
-    },
-    {
-      "code": "YHT",
-      "rate": 0.1444
-    },
-    {
-      "code": "HPT",
-      "rate": 0.1415
-    },
-    {
-      "code": "AVT",
-      "rate": 0.1326
-    },
-    {
-      "code": "TIV",
-      "rate": 0.1308
-    },
-    {
-      "code": "FYT",
-      "rate": 0.1306
-    },
-    {
-      "code": "TZV",
-      "rate": 0.1263
-    },
-    {
-      "code": "TGT",
-      "rate": 0.1246
-    },
-    {
-      "code": "DBK",
-      "rate": 0.1199
-    },
-    {
-      "code": "TFU",
-      "rate": 0.0562
-    },
-    {
-      "code": "MUT",
-      "rate": 0.1438
-    },
-    {
-      "code": "ZBO",
-      "rate": -0.0519
-    },
-    {
-      "code": "GMI",
-      "rate": 4.1603
-    },
-    {
-      "code": "FPG",
-      "rate": 3.5782
-    },
-    {
-      "code": "IOG",
-      "rate": 3.1572
-    },
-    {
-      "code": "BCK",
-      "rate": 1.6783
-    },
-    {
-      "code": "FBV",
-      "rate": 1.2602
-    },
-    {
-      "code": "YTV",
-      "rate": 0.9467
-    },
-    {
-      "code": "YGM",
-      "rate": 0.8426
-    },
-    {
-      "code": "KOD",
-      "rate": 0.8187
-    },
-    {
-      "code": "YZT",
-      "rate": 0.69
-    },
-    {
-      "code": "EML",
-      "rate": 0.6603
-    },
-    {
-      "code": "DVT",
-      "rate": 0.6294
-    },
-    {
-      "code": "TAR",
-      "rate": 0.6013
-    },
-    {
-      "code": "CKL",
-      "rate": 0.5559
-    },
-    {
-      "code": "TGE",
-      "rate": 0.5492
-    },
-    {
-      "code": "EVM",
-      "rate": 0.5114
-    },
-    {
-      "code": "YZC",
-      "rate": 0.409
-    },
-    {
-      "code": "DBP",
-      "rate": 0.3022
-    },
-    {
-      "code": "YSU",
-      "rate": 0.246
-    },
-    {
-      "code": "VCY",
-      "rate": 0.2432
-    },
-    {
-      "code": "DFC",
-      "rate": 0.224
-    },
-    {
-      "code": "SSK",
-      "rate": 0.2148
-    },
-    {
-      "code": "ZFB",
-      "rate": 0.146
-    },
-    {
-      "code": "YDP",
-      "rate": 0.0817
-    },
-    {
-      "code": "AGC",
-      "rate": 0.0562
-    },
-    {
-      "code": "YPF",
-      "rate": 0.0207
-    },
-    {
-      "code": "OLD",
-      "rate": -0.0081
-    },
-    {
-      "code": "ZDD",
-      "rate": -0.0332
-    },
-    {
-      "code": "YJH",
-      "rate": -0.103
-    },
-    {
-      "code": "DTM",
-      "rate": -0.1503
-    },
-    {
-      "code": "ZMY",
-      "rate": -0.2694
-    },
-    {
-      "code": "TGA",
-      "rate": -0.2879
-    },
-    {
-      "code": "DYN",
-      "rate": -0.3701
-    },
-    {
-      "code": "ZBD",
-      "rate": -0.4376
-    },
-    {
-      "code": "IED",
-      "rate": -0.4531
-    },
-    {
-      "code": "TGR",
-      "rate": -0.5407
-    },
-    {
-      "code": "ZDZ",
-      "rate": -0.5977
-    },
-    {
-      "code": "YSH",
-      "rate": -0.6902
-    },
-    {
-      "code": "YLO",
-      "rate": -0.7166
-    },
-    {
-      "code": "DTZ",
-      "rate": -0.7428
-    },
-    {
-      "code": "IJC",
-      "rate": -0.7806
-    },
-    {
-      "code": "ZIH",
-      "rate": -0.8791
-    },
-    {
-      "code": "DHT",
-      "rate": -0.8978
-    },
-    {
-      "code": "MTV",
-      "rate": -0.9719
-    },
-    {
-      "code": "DKR",
-      "rate": -2.6534
-    },
-    {
-      "code": "ANL",
-      "rate": 0.1254
-    },
-    {
-      "code": "IGL",
-      "rate": 0.1245
-    },
-    {
-      "code": "BRG",
-      "rate": 0.123
-    },
-    {
-      "code": "GAL",
-      "rate": 0.1221
-    },
-    {
-      "code": "FIL",
-      "rate": 0.1207
-    },
-    {
-      "code": "FSK",
-      "rate": 0.1203
-    },
-    {
-      "code": "ZBJ",
-      "rate": 0.1202
-    },
-    {
-      "code": "VK6",
-      "rate": 0.1201
-    },
-    {
-      "code": "PPI",
-      "rate": 0.1193
-    },
-    {
-      "code": "DLY",
-      "rate": 0.1187
-    },
-    {
-      "code": "GTL",
-      "rate": 0.1182
-    },
-    {
-      "code": "DL2",
-      "rate": 0.1176
-    },
-    {
-      "code": "BGP",
-      "rate": 0.1172
-    },
-    {
-      "code": "TZL",
-      "rate": 0.1167
-    },
-    {
-      "code": "ALE",
-      "rate": 0.1149
-    },
-    {
-      "code": "GNP",
-      "rate": 0.1146
-    },
-    {
-      "code": "TKM",
-      "rate": 0.1144
-    },
-    {
-      "code": "YLB",
-      "rate": 0.1132
-    },
-    {
-      "code": "FIS",
-      "rate": 0.1128
-    },
-    {
-      "code": "ENR",
-      "rate": 0.1124
-    },
-    {
-      "code": "TI1",
+      "code": "GBC",
       "rate": 0.1115
     },
     {
-      "code": "HSL",
-      "rate": 0.1111
+      "code": "IRB",
+      "rate": 0.3261
+    },
+    {
+      "code": "NMU",
+      "rate": 0.3116
+    },
+    {
+      "code": "NSH",
+      "rate": 0.2092
+    },
+    {
+      "code": "BHI",
+      "rate": 0.1349
+    },
+    {
+      "code": "PPM",
+      "rate": 0.1142
+    },
+    {
+      "code": "KPF",
+      "rate": 0.0742
+    },
+    {
+      "code": "RBP",
+      "rate": 0.3574
+    },
+    {
+      "code": "AC4",
+      "rate": 0.3483
+    },
+    {
+      "code": "DAP",
+      "rate": 0.348
+    },
+    {
+      "code": "PPN",
+      "rate": 0.3328
+    },
+    {
+      "code": "NSP",
+      "rate": 0.3199
+    },
+    {
+      "code": "TLV",
+      "rate": 0.3168
+    },
+    {
+      "code": "EP1",
+      "rate": 0.3129
+    },
+    {
+      "code": "TRJ",
+      "rate": 0.3784
+    },
+    {
+      "code": "NJR",
+      "rate": 0.3382
+    },
+    {
+      "code": "BBF",
+      "rate": 0.2896
+    },
+    {
+      "code": "RIH",
+      "rate": 9.3611
+    },
+    {
+      "code": "IDI",
+      "rate": 3.0868
+    },
+    {
+      "code": "BV1",
+      "rate": 1.9749
+    },
+    {
+      "code": "DOH",
+      "rate": 1.7842
+    },
+    {
+      "code": "KOT",
+      "rate": 1.7595
+    },
+    {
+      "code": "GLG",
+      "rate": 1.1868
+    },
+    {
+      "code": "ONE",
+      "rate": 1.1423
+    },
+    {
+      "code": "NPH",
+      "rate": 1.0853
+    },
+    {
+      "code": "SKO",
+      "rate": 0.8801
+    },
+    {
+      "code": "RHI",
+      "rate": 0.8668
+    },
+    {
+      "code": "LTL",
+      "rate": 0.825
+    },
+    {
+      "code": "NLE",
+      "rate": 0.8237
+    },
+    {
+      "code": "KHA",
+      "rate": 0.7796
+    },
+    {
+      "code": "HRZ",
+      "rate": 0.7345
+    },
+    {
+      "code": "NUH",
+      "rate": 0.6746
+    },
+    {
+      "code": "MKA",
+      "rate": 0.5704
+    },
+    {
+      "code": "THF",
+      "rate": 0.5587
+    },
+    {
+      "code": "MAC",
+      "rate": 0.5109
+    },
+    {
+      "code": "IJI",
+      "rate": 0.4869
+    },
+    {
+      "code": "BDS",
+      "rate": 0.4846
+    },
+    {
+      "code": "DEH",
+      "rate": 0.2819
+    },
+    {
+      "code": "BIY",
+      "rate": 0.258
+    },
+    {
+      "code": "PTO",
+      "rate": 0.1922
+    },
+    {
+      "code": "RTH",
+      "rate": 0.1056
+    },
+    {
+      "code": "SRL",
+      "rate": -0.0401
+    },
+    {
+      "code": "PPH",
+      "rate": -0.1989
+    },
+    {
+      "code": "MAS",
+      "rate": -0.6585
+    },
+    {
+      "code": "MTD",
+      "rate": 4.4389
+    },
+    {
+      "code": "SGK",
+      "rate": 2.3912
+    },
+    {
+      "code": "BHF",
+      "rate": 1.7431
+    },
+    {
+      "code": "ECA",
+      "rate": 1.314
+    },
+    {
+      "code": "EGR",
+      "rate": 1.2395
+    },
+    {
+      "code": "SVB",
+      "rate": 0.9084
+    },
+    {
+      "code": "BTK",
+      "rate": 0.8631
+    },
+    {
+      "code": "RGD",
+      "rate": 0.8198
+    },
+    {
+      "code": "CKF",
+      "rate": 0.8167
+    },
+    {
+      "code": "IRT",
+      "rate": 0.5573
+    },
+    {
+      "code": "NTI",
+      "rate": 0.5531
+    },
+    {
+      "code": "HIZ",
+      "rate": 0.5455
+    },
+    {
+      "code": "EBD",
+      "rate": 0.5393
+    },
+    {
+      "code": "CPU",
+      "rate": 0.4172
+    },
+    {
+      "code": "RIK",
+      "rate": 0.4157
+    },
+    {
+      "code": "BVD",
+      "rate": 0.4132
+    },
+    {
+      "code": "NKP",
+      "rate": 0.3408
+    },
+    {
+      "code": "IPB",
+      "rate": 0.3321
+    },
+    {
+      "code": "GPG",
+      "rate": 0.3014
+    },
+    {
+      "code": "ICH",
+      "rate": 0.2477
+    },
+    {
+      "code": "AN1",
+      "rate": 0.1838
+    },
+    {
+      "code": "SUC",
+      "rate": 0.1252
+    },
+    {
+      "code": "BVV",
+      "rate": 0.0853
+    },
+    {
+      "code": "RUT",
+      "rate": 0.0271
+    },
+    {
+      "code": "RTD",
+      "rate": -0.1038
+    },
+    {
+      "code": "KMN",
+      "rate": 2.2495
+    },
+    {
+      "code": "VLT",
+      "rate": 2.0436
+    },
+    {
+      "code": "GOL",
+      "rate": 2.0155
+    },
+    {
+      "code": "TCA",
+      "rate": 2.0
+    },
+    {
+      "code": "KCR",
+      "rate": 1.9531
+    },
+    {
+      "code": "HBF",
+      "rate": 1.9398
+    },
+    {
+      "code": "TUA",
+      "rate": 1.9195
+    },
+    {
+      "code": "TTA",
+      "rate": 1.9078
+    },
+    {
+      "code": "GTA",
+      "rate": 1.9052
+    },
+    {
+      "code": "YKT",
+      "rate": 1.8767
+    },
+    {
+      "code": "OJK",
+      "rate": 1.8564
+    },
+    {
+      "code": "AFT",
+      "rate": 0.4961
+    },
+    {
+      "code": "YAY",
+      "rate": 0.4701
+    },
+    {
+      "code": "AFV",
+      "rate": 0.2083
+    },
+    {
+      "code": "AFA",
+      "rate": -0.1311
+    },
+    {
+      "code": "TMG",
+      "rate": -0.2593
+    },
+    {
+      "code": "HMG",
+      "rate": 0.1634
+    },
+    {
+      "code": "ZBO",
+      "rate": 0.1605
+    },
+    {
+      "code": "MUT",
+      "rate": 0.1003
+    },
+    {
+      "code": "YMH",
+      "rate": 0.0787
+    },
+    {
+      "code": "YAE",
+      "rate": 0.4309
+    },
+    {
+      "code": "YVB",
+      "rate": 0.3918
+    },
+    {
+      "code": "AVT",
+      "rate": 0.3606
+    },
+    {
+      "code": "HPT",
+      "rate": 0.3286
+    },
+    {
+      "code": "YHT",
+      "rate": 0.3279
+    },
+    {
+      "code": "VKT",
+      "rate": 0.3277
+    },
+    {
+      "code": "FYT",
+      "rate": 0.3227
+    },
+    {
+      "code": "TIV",
+      "rate": 0.322
+    },
+    {
+      "code": "TZV",
+      "rate": 0.3206
+    },
+    {
+      "code": "TGT",
+      "rate": 0.3116
+    },
+    {
+      "code": "TFU",
+      "rate": 0.1677
+    },
+    {
+      "code": "GUV",
+      "rate": 0.1648
+    },
+    {
+      "code": "AK2",
+      "rate": 0.1225
+    },
+    {
+      "code": "IDH",
+      "rate": 1.588
+    },
+    {
+      "code": "GHS",
+      "rate": 1.5141
+    },
+    {
+      "code": "FYD",
+      "rate": 1.4932
+    },
+    {
+      "code": "TYH",
+      "rate": 1.4232
+    },
+    {
+      "code": "TI2",
+      "rate": 1.3959
+    },
+    {
+      "code": "SAS",
+      "rate": 1.3735
+    },
+    {
+      "code": "AK3",
+      "rate": 1.282
+    },
+    {
+      "code": "YHS",
+      "rate": 1.2771
+    },
+    {
+      "code": "ZTV",
+      "rate": 1.1799
+    },
+    {
+      "code": "GKG",
+      "rate": 1.1432
+    },
+    {
+      "code": "HIH",
+      "rate": 1.0976
+    },
+    {
+      "code": "YAS",
+      "rate": 1.0828
+    },
+    {
+      "code": "HVS",
+      "rate": 1.0636
+    },
+    {
+      "code": "YLY",
+      "rate": 1.0464
+    },
+    {
+      "code": "TZD",
+      "rate": 1.0327
+    },
+    {
+      "code": "ZPE",
+      "rate": 0.9963
+    },
+    {
+      "code": "KH1",
+      "rate": 0.9598
+    },
+    {
+      "code": "ZJL",
+      "rate": 0.9551
+    },
+    {
+      "code": "GKV",
+      "rate": 0.9276
+    },
+    {
+      "code": "BGR",
+      "rate": 0.8552
+    },
+    {
+      "code": "BIG",
+      "rate": 0.7948
+    },
+    {
+      "code": "GNS",
+      "rate": 0.7628
+    },
+    {
+      "code": "KVT",
+      "rate": 0.7041
+    },
+    {
+      "code": "BDY",
+      "rate": 0.6966
+    },
+    {
+      "code": "SSS",
+      "rate": 0.6517
+    },
+    {
+      "code": "YHK",
+      "rate": 0.6239
+    },
+    {
+      "code": "YZH",
+      "rate": 0.6216
+    },
+    {
+      "code": "TAU",
+      "rate": 0.6161
+    },
+    {
+      "code": "YCP",
+      "rate": 0.6121
+    },
+    {
+      "code": "VHS",
+      "rate": 0.592
+    },
+    {
+      "code": "GBJ",
+      "rate": 0.5877
+    },
+    {
+      "code": "ADP",
+      "rate": 0.58
+    },
+    {
+      "code": "YHB",
+      "rate": 0.5743
+    },
+    {
+      "code": "GOH",
+      "rate": 0.48
+    },
+    {
+      "code": "TI3",
+      "rate": 0.1081
+    },
+    {
+      "code": "GRT",
+      "rate": -0.1826
+    },
+    {
+      "code": "YHZ",
+      "rate": -0.4967
+    },
+    {
+      "code": "ICZ",
+      "rate": -0.5717
+    },
+    {
+      "code": "TTE",
+      "rate": -1.2121
+    },
+    {
+      "code": "FPG",
+      "rate": 3.4618
+    },
+    {
+      "code": "IOG",
+      "rate": 3.3587
+    },
+    {
+      "code": "GMI",
+      "rate": 3.1713
+    },
+    {
+      "code": "ZDZ",
+      "rate": 1.8628
+    },
+    {
+      "code": "CKL",
+      "rate": 1.5474
+    },
+    {
+      "code": "ZCN",
+      "rate": 1.5429
+    },
+    {
+      "code": "YSH",
+      "rate": 1.3365
+    },
+    {
+      "code": "YGM",
+      "rate": 1.3238
+    },
+    {
+      "code": "TGE",
+      "rate": 1.1534
+    },
+    {
+      "code": "YDP",
+      "rate": 1.1149
+    },
+    {
+      "code": "YTV",
+      "rate": 1.0528
+    },
+    {
+      "code": "TAR",
+      "rate": 0.9141
+    },
+    {
+      "code": "FBV",
+      "rate": 0.895
+    },
+    {
+      "code": "YLO",
+      "rate": 0.8924
+    },
+    {
+      "code": "TGA",
+      "rate": 0.8129
+    },
+    {
+      "code": "YPF",
+      "rate": 0.7734
+    },
+    {
+      "code": "YZC",
+      "rate": 0.7155
+    },
+    {
+      "code": "IED",
+      "rate": 0.6711
+    },
+    {
+      "code": "VCY",
+      "rate": 0.5806
+    },
+    {
+      "code": "ZMY",
+      "rate": 0.5588
+    },
+    {
+      "code": "ZBD",
+      "rate": 0.5567
+    },
+    {
+      "code": "YZT",
+      "rate": 0.5086
+    },
+    {
+      "code": "ZFB",
+      "rate": 0.4917
+    },
+    {
+      "code": "KOD",
+      "rate": 0.4694
+    },
+    {
+      "code": "YSU",
+      "rate": 0.4515
+    },
+    {
+      "code": "EML",
+      "rate": 0.4302
+    },
+    {
+      "code": "ZDD",
+      "rate": 0.3363
+    },
+    {
+      "code": "YJH",
+      "rate": 0.2634
+    },
+    {
+      "code": "OLD",
+      "rate": 0.2617
+    },
+    {
+      "code": "MTV",
+      "rate": 0.1588
+    },
+    {
+      "code": "AGC",
+      "rate": 0.1086
+    },
+    {
+      "code": "TGR",
+      "rate": 0.0356
+    },
+    {
+      "code": "IJC",
+      "rate": 0.0042
+    },
+    {
+      "code": "DTZ",
+      "rate": -0.7628
+    },
+    {
+      "code": "ZIH",
+      "rate": -0.9193
+    },
+    {
+      "code": "BGP",
+      "rate": 0.3352
+    },
+    {
+      "code": "IGL",
+      "rate": 0.3317
     },
     {
       "code": "ZPO",
-      "rate": 0.111
+      "rate": 0.3314
     },
     {
-      "code": "PTL",
-      "rate": 0.1106
+      "code": "ZBJ",
+      "rate": 0.3305
     },
     {
-      "code": "YVD",
-      "rate": 0.1105
+      "code": "GNP",
+      "rate": 0.329
     },
     {
-      "code": "OPJ",
-      "rate": 0.1105
+      "code": "BRG",
+      "rate": 0.329
     },
     {
-      "code": "DIP",
-      "rate": 0.1088
+      "code": "TKM",
+      "rate": 0.3288
+    },
+    {
+      "code": "VK6",
+      "rate": 0.3284
+    },
+    {
+      "code": "ALE",
+      "rate": 0.3281
+    },
+    {
+      "code": "ANL",
+      "rate": 0.3268
+    },
+    {
+      "code": "PPI",
+      "rate": 0.3268
     },
     {
       "code": "PPJ",
-      "rate": 0.1087
+      "rate": 0.3263
     },
     {
-      "code": "PTE",
-      "rate": 0.1073
+      "code": "FIL",
+      "rate": 0.3249
     },
     {
-      "code": "AIS",
-      "rate": 0.1072
+      "code": "TZL",
+      "rate": 0.3243
+    },
+    {
+      "code": "FSK",
+      "rate": 0.324
+    },
+    {
+      "code": "PTL",
+      "rate": 0.324
     },
     {
       "code": "ZPR",
-      "rate": 0.107
+      "rate": 0.324
     },
     {
-      "code": "YIK",
-      "rate": 0.1068
+      "code": "FI5",
+      "rate": 0.3223
+    },
+    {
+      "code": "AIS",
+      "rate": 0.3221
+    },
+    {
+      "code": "PTE",
+      "rate": 0.322
+    },
+    {
+      "code": "GTL",
+      "rate": 0.3201
+    },
+    {
+      "code": "YLB",
+      "rate": 0.3201
     },
     {
       "code": "ILH",
-      "rate": 0.1067
+      "rate": 0.3199
     },
     {
-      "code": "DCB",
-      "rate": 0.1065
-    },
-    {
-      "code": "GPN",
-      "rate": 0.1065
-    },
-    {
-      "code": "PUR",
-      "rate": 0.106
-    },
-    {
-      "code": "FSF",
-      "rate": 0.106
+      "code": "YIK",
+      "rate": 0.3196
     },
     {
       "code": "PKT",
-      "rate": 0.106
+      "rate": 0.3194
+    },
+    {
+      "code": "FSF",
+      "rate": 0.3191
+    },
+    {
+      "code": "YVD",
+      "rate": 0.3186
+    },
+    {
+      "code": "PUR",
+      "rate": 0.318
+    },
+    {
+      "code": "GAL",
+      "rate": 0.3175
+    },
+    {
+      "code": "TI1",
+      "rate": 0.3175
     },
     {
       "code": "YPT",
-      "rate": 0.1057
+      "rate": 0.3172
+    },
+    {
+      "code": "GPN",
+      "rate": 0.3167
     },
     {
       "code": "ZP8",
-      "rate": 0.1055
+      "rate": 0.3167
+    },
+    {
+      "code": "OPJ",
+      "rate": 0.3165
     },
     {
       "code": "GJH",
-      "rate": 0.1049
+      "rate": 0.3156
     },
     {
-      "code": "PPK",
-      "rate": 0.1049
+      "code": "HSL",
+      "rate": 0.315
     },
     {
       "code": "VPA",
-      "rate": 0.1046
+      "rate": 0.3137
+    },
+    {
+      "code": "PPK",
+      "rate": 0.3134
     },
     {
       "code": "GKH",
-      "rate": 0.1035
+      "rate": 0.3127
     }
   ]
 }
