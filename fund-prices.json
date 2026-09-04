@@ -12,6 +12,12 @@
     {
       "code": "BSM",
       "rate": 0.3747
+    },{
+      "code": "TLY",
+      "rate": 0.58
+    },{
+      "code": "TMV",
+      "rate": 0.21
     },
     {
       "code": "GZM",
