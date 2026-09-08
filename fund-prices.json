@@ -8,6 +8,12 @@
     {
       "code": "BHF",
       "rate": 4.4315
+    }, {
+      "code": "THF",
+      "rate": 1.798
+    }, {
+      "code": "DOH",
+      "rate": 2.097
     },
     {
       "code": "RGD",
