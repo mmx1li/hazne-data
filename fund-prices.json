@@ -9,6 +9,10 @@
       "code": "OPJ",
       "name": "QNB PORTFÖY QNB PARA PİYASASI FONU",
       "rate": 0.1159
+    },{
+      "code": "TMV",
+      "name": "tmv",
+      "rate": 0.89
     },
     {
       "code": "PPI",
