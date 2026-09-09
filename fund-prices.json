@@ -1,1382 +1,1159 @@
-[
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "OPJ",
-    "name": "QNB PORTFÖY QNB PARA PİYASASI FONU",
-    "return": 0.1159
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PPI",
-    "name": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
-    "return": 0.1131
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "YLB",
-    "name": "YAPI KREDİ PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1073
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "BRG",
-    "name": "TEB PORTFÖY BURGAN BANK PARA PİYASASI FONU",
-    "return": 0.1064
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "GKH",
-    "name": "GARANTİ PORTFÖY PARA PİYASASI KATILIM SERBEST FON",
-    "return": 0.1055
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "YVD",
-    "name": "YAPI KREDİ PORTFÖY İKİNCİ PARA PİYASASI FONU",
-    "return": 0.1055
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ENR",
-    "name": "QNB PORTFÖY ENPARA PARA PİYASASI FONU",
-    "return": 0.1053
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "GTL",
-    "name": "GARANTİ PORTFÖY BİRİNCİ PARA PİYASASI FONU",
-    "return": 0.1049
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ZPR",
-    "name": "ZİRAAT PORTFÖY PARA PİYASASI SERBEST FON",
-    "return": 0.1049
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "IGL",
-    "name": "TEB PORTFÖY ING BANK PARA PİYASASI FONU",
-    "return": 0.1047
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "BGP",
-    "name": "AK PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
-    "return": 0.1042
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "FI5",
-    "name": "QNB PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1042
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PKT",
-    "name": "YAPI KREDİ PORTFÖY PARA PİYASASI KATILIM SERBEST FON",
-    "return": 0.1033
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PTE",
-    "name": "TEB PORTFÖY BİRİNCİ PARA PİYASASI SERBEST FON",
-    "return": 0.1032
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "VK6",
-    "name": "V PORTFÖY VAKIFBANK PARA PİYASASI FONU",
-    "return": 0.1032
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ANL",
-    "name": "AK PORTFÖY ALTERNATİF BANK PARA PİYASASI FONU",
-    "return": 0.1031
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ZBJ",
-    "name": "ZİRAAT PORTFÖY BAŞAK PARA PİYASASI FONU",
-    "return": 0.1027
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ZP8",
-    "name": "ZİRAAT PORTFÖY KEHRİBAR PARA PİYASASI KATILIM SERBEST FON",
-    "return": 0.1025
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ZPO",
-    "name": "ZİRAAT PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.1025
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "DIP",
-    "name": "DENİZ PORTFÖY İKİNCİ PARA PİYASASI SERBEST FON",
-    "return": 0.1024
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "ALE",
-    "name": "AK PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1023
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "AIS",
-    "name": "AK PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.1022
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "DLY",
-    "name": "DENİZ PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1017
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "TI1",
-    "name": "İŞ PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1017
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "DL2",
-    "name": "DENİZ PORTFÖY İKİNCİ PARA PİYASASI FONU",
-    "return": 0.1016
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PPJ",
-    "name": "AK PORTFÖY İKİNCİ PARA PİYASASI SERBEST FON",
-    "return": 0.1012
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "FSF",
-    "name": "FİBA PORTFÖY PARA PİYASASI SERBEST FON",
-    "return": 0.101
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "DCB",
-    "name": "DENİZ PORTFÖY PARA PİYASASI SERBEST FON",
-    "return": 0.1009
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "FIL",
-    "name": "FİBA PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1008
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "TZL",
-    "name": "ZİRAAT PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1008
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "YPT",
-    "name": "YAPI KREDİ PORTFÖY PARA PİYASASI SERBEST FON",
-    "return": 0.1007
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PPK",
-    "name": "QNB PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.1004
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "GPN",
-    "name": "GARANTİ PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.1002
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "FSK",
-    "name": "QNB PORTFÖY İKİNCİ PARA PİYASASI FONU",
-    "return": 0.0997
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "GJH",
-    "name": "GARANTİ PORTFÖY PARA PİYASASI SERBEST FON",
-    "return": 0.0993
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "TKM",
-    "name": "TEB PORTFÖY PARA PİYASASI FONU",
-    "return": 0.0989
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "VPA",
-    "name": "VAKIF KATILIM PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.0987
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "YIK",
-    "name": "YAPI KREDİ PORTFÖY İKİNCİ PARA PİYASASI SERBEST FON",
-    "return": 0.0984
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "GNP",
-    "name": "GARANTİ PORTFÖY NEMA PARA PİYASASI FONU",
-    "return": 0.0981
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "GAL",
-    "name": "GARANTİ PORTFÖY İKİNCİ PARA PİYASASI FONU",
-    "return": 0.0976
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "HSL",
-    "name": "HSBC PORTFÖY PARA PİYASASI FONU",
-    "return": 0.0976
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PTL",
-    "name": "TEB PORTFÖY İKİNCİ PARA PİYASASI FONU",
-    "return": 0.096
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "DMG",
-    "name": "DENİZ PORTFÖY GÜMÜŞ FON SEPETİ FONU",
-    "return": 1.5002
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "KMN",
-    "name": "YAPI KREDİ PORTFÖY KIYMETLİ MADENLER KATILIM FONU",
-    "return": 0.8224
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "TCA",
-    "name": "ZİRAAT PORTFÖY ALTIN KATILIM FONU",
-    "return": 0.2236
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "HBF",
-    "name": "HSBC PORTFÖY ALTIN FONU",
-    "return": 0.1816
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "VLT",
-    "name": "VAKIF KATILIM PORTFÖY ALTIN KATILIM FONU",
-    "return": 0.1752
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "GOL",
-    "name": "GARANTİ PORTFÖY ALTIN KATILIM FONU",
-    "return": 0.1538
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "KCR",
-    "name": "AK PORTFÖY KÜLÇE ALTIN KATILIM FONU",
-    "return": 0.1524
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "AFO",
-    "name": "AK PORTFÖY ALTIN FONU",
-    "return": 0.1517
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "TUA",
-    "name": "TEB PORTFÖY ALTIN FONU",
-    "return": 0.1497
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "OJK",
-    "name": "QNB PORTFÖY ALTIN FONU",
-    "return": 0.1493
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "DBA",
-    "name": "DENİZ PORTFÖY ALTIN FONU",
-    "return": 0.1489
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "GTA",
-    "name": "GARANTİ PORTFÖY ALTIN FONU",
-    "return": 0.1479
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "YKT",
-    "name": "YAPI KREDİ PORTFÖY ALTIN FONU",
-    "return": 0.1422
-  },
-  {
-    "category": "KIYMETLİ MADEN FONLARI",
-    "code": "TTA",
-    "name": "İŞ PORTFÖY ALTIN FONU",
-    "return": 0.1285
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "YAY",
-    "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
-    "return": 0.5628
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "AFT",
-    "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
-    "return": 0.3726
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "AFA",
-    "name": "AK PORTFÖY AMERİKA YABANCI HİSSE SENEDİ FONU",
-    "return": -0.5629
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "TMG",
-    "name": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
-    "return": -0.7895
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "AFV",
-    "name": "AK PORTFÖY AVRUPA YABANCI HİSSE SENEDİ FONU",
-    "return": -0.8458
-  },
-  {
-    "category": "MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "ZBO",
-    "name": "ZİRAAT PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": 0.5273
-  },
-  {
-    "category": "MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "MTG",
-    "name": "DENİZ PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": 0.0558
-  },
-  {
-    "category": "MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "YMH",
-    "name": "YAPI KREDİ PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": -0.0078
-  },
-  {
-    "category": "MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "HMG",
-    "name": "HSBC PYŞ MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": -0.0793
-  },
-  {
-    "category": "MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "MUT",
-    "name": "GARANTİ PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": -0.1068
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "BRR",
-    "name": "AK PORTFÖY İKİNCİ KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1183
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "YHT",
-    "name": "YAPI KREDİ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1172
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "FYT",
-    "name": "QNB PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1165
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "AVT",
-    "name": "AK PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1126
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "HPT",
-    "name": "HSBC PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1091
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "TIV",
-    "name": "İŞ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1072
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "TZV",
-    "name": "ZİRAAT PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1039
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "YAE",
-    "name": "YAPI KREDİ PORTFÖY TLREF'E ENDEKSLİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1009
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "VKT",
-    "name": "V PORTFÖY VAKIFBANK KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.095
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "DBK",
-    "name": "DENİZ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0948
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "TGT",
-    "name": "GARANTİ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0932
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "GUV",
-    "name": "GARANTİ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0838
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "TFU",
-    "name": "İŞ PORTFÖY TÜFE'YE ENDEKSLİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0775
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "YVB",
-    "name": "YAPI KREDİ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0756
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "DUV",
-    "name": "DENİZ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0654
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "AK2",
-    "name": "AK PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0645
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "PPS",
-    "name": "PHİLLİP PORTFÖY BİRİNCİ SERBEST FON",
-    "return": 2.2959
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "TLY",
-    "name": "TERA PORTFÖY BİRİNCİ SERBEST FON",
-    "return": 0.684
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "RTP",
-    "name": "RE-PİE PORTFÖY BİRİNCİ SERBEST FON",
-    "return": 0.4491
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "ODP",
-    "name": "OSMANLI PORTFÖY BİRİNCİ SERBEST FON",
-    "return": 0.4122
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "BS1",
-    "name": "AHLATCI PORTFÖY BİRİNCİ SERBEST FON",
-    "return": 0.2961
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "BSM",
-    "name": "GLOBAL MD PORTFÖY BERRAK SERBEST FON",
-    "return": 0.266
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "MOZ",
-    "name": "EMAA BLUE PORTFÖY MOZAİK SERBEST FON",
-    "return": 0.2269
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "RBR",
-    "name": "RE-PİE PORTFÖY BİRİNCİ KATILIM SERBEST FON",
-    "return": 0.0516
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "SKZ",
-    "name": "NEO PORTFÖY SEKİZİNCİ SERBEST FON",
-    "return": 0.011
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "GZM",
-    "name": "GLOBAL MD PORTFÖY DURU SERBEST FON",
-    "return": -0.1082
-  },
-  {
-    "category": "SERBEST FONLAR",
-    "code": "IHC",
-    "name": "INVEO PORTFÖY INTER SERBEST FON",
-    "return": -1.696
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "GBC",
-    "name": "AZİMUT PORTFÖY YABANCI HİSSE SENEDİ FONU",
-    "return": -0.2433
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "GBG",
-    "name": "INVEO PORTFÖY G-20 ÜLKELERİ YABANCI HİSSE SENEDİ FONU",
-    "return": -0.5035
-  },
-  {
-    "category": "YABANCI HİSSE SENEDİ FONLARI",
-    "code": "ARE",
-    "name": "İSTANBUL PORTFÖY YABANCI HİSSE SENEDİ FONU",
-    "return": -0.9148
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "KPF",
-    "name": "NEO PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": 0.0856
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "PPM",
-    "name": "PİRAMİT PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": 0.0711
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "NSH",
-    "name": "NUROL PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON (HSYF)",
-    "return": 0.0267
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "IRB",
-    "name": "İSTANBUL PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON (HSYF)",
-    "return": 0.0216
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "NMU",
-    "name": "NUROL PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": 0.0175
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "LPH",
-    "name": "STATECH PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON (HSYF)",
-    "return": 0.0032
-  },
-  {
-    "category": "ARBİTRAJ VE MUTLAK GETİRİ HEDEFLİ FONLAR",
-    "code": "BHI",
-    "name": "BV PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
-    "return": -0.0183
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "TP2",
-    "name": "TERA PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1318
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "DAP",
-    "name": "DESTEK PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1131
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "MT2",
-    "name": "MT PORTFÖY PARA PİYASASI SERBEST FON",
-    "return": 0.1087
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "MPL",
-    "name": "MT PORTFÖY PARA PİYASASI FONU",
-    "return": 0.108
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "TLV",
-    "name": "TERA PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.1065
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "RBP",
-    "name": "RE-PİE PORTFÖY BİRİNCİ PARA PİYASASI FONU",
-    "return": 0.1062
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "PPN",
-    "name": "NUROL PORTFÖY PARA PİYASASI FONU",
-    "return": 0.105
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "NSP",
-    "name": "NUROL PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.1023
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "AC4",
-    "name": "PARDUS PORTFÖY PARA PİYASASI FONU",
-    "return": 0.1023
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "EP1",
-    "name": "EMLAK KATILIM PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.0998
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "BVF",
-    "name": "BV PORTFÖY PARA PİYASASI FONU",
-    "return": 0.0979
-  },
-  {
-    "category": "PARA PİYASASI FONLARI",
-    "code": "OMT",
-    "name": "OSMANLI PORTFÖY PARA PİYASASI KATILIM FONU",
-    "return": 0.0941
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "MBR",
-    "name": "MT PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1758
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "BBF",
-    "name": "PARDUS PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1212
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "TRJ",
-    "name": "TERA PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.1108
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "IST",
-    "name": "İSTANBUL PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.0982
-  },
-  {
-    "category": "BORÇLANMA ARAÇLARI FONLARI",
-    "code": "NJR",
-    "name": "NUROL PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
-    "return": 0.091
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "BGR",
-    "name": "AK PORTFÖY BIST GYO ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 2.7327
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GKV",
-    "name": "GARANTİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 2.2509
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "ZPE",
-    "name": "ZİRAAT PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 2.2133
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DKH",
-    "name": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 2.1359
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "KH1",
-    "name": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.9304
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YLY",
-    "name": "YAPI KREDİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.7184
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YHK",
-    "name": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.4856
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "KVT",
-    "name": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.3913
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MLT",
-    "name": "DENİZ PORTFÖY MELTEM HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 1.3881
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GNS",
-    "name": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.3513
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "VHS",
-    "name": "VAKIF KATILIM PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.1659
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YHS",
-    "name": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.9841
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "AK3",
-    "name": "AK PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.9656
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DTL",
-    "name": "DENİZ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.8484
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GHS",
-    "name": "GARANTİ PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.7814
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DAH",
-    "name": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.7773
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GKG",
-    "name": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.6738
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "TYH",
-    "name": "TEB PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.6496
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "BIG",
-    "name": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.5608
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "IDH",
-    "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.5294
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "FYD",
-    "name": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.4667
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "TI2",
-    "name": "İŞ PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.389
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YAS",
-    "name": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.37
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YHZ",
-    "name": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.3358
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "HVS",
-    "name": "HSBC PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.305
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DHJ",
-    "name": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.2563
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GRT",
-    "name": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.1881
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "SSS",
-    "name": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ Ş. HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.1291
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GOH",
-    "name": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.1003
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "BDY",
-    "name": "AK PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.0896
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "HIH",
-    "name": "GARANTİ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.0539
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "ZJL",
-    "name": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.0267
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "ZTV",
-    "name": "ZİRAAT PORTFÖY TÜRKİYE VARLIK FONU İŞTİRAKLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.0057
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YHB",
-    "name": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.0033
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "TZD",
-    "name": "ZİRAAT PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.2772
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "SAS",
-    "name": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.4133
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DHV",
-    "name": "DENİZ PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": -0.5155
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "ICZ",
-    "name": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.5429
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "TTE",
-    "name": "İŞ PORTFÖY BIST TEKNOLOJİ ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.8287
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "TI3",
-    "name": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -1.2243
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "ADP",
-    "name": "AK PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -2.2076
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YZH",
-    "name": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -2.3264
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "YCP",
-    "name": "YAPI KREDİ PORTFÖY BANKACILIK SEKTÖRÜ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": -2.3277
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GBJ",
-    "name": "GARANTİ PORTFÖY BANKACILIK SEKTÖRÜ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": -2.3684
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DDA",
-    "name": "DENİZ PORTFÖY BANKACILIK SEKTÖRÜ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": -2.3996
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "TAU",
-    "name": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
-    "return": -2.4898
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "NKT",
-    "name": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 2.181
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MTK",
-    "name": "MT PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 2.043
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DOH",
-    "name": "TERA PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 1.4283
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "GLG",
-    "name": "AKTİF PORTFÖY CAPITAL HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 1.4103
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "NUH",
-    "name": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.3794
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "NLE",
-    "name": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HSYF)",
-    "return": 1.2955
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "THF",
-    "name": "TERA PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.9722
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MHF",
-    "name": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.9515
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "ONE",
-    "name": "AKTİF PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 0.6549
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "KHA",
-    "name": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.6206
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MKA",
-    "name": "MARMARA CAPITAL PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.609
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "KOT",
-    "name": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.6064
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "HRZ",
-    "name": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.5842
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "NPH",
-    "name": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.5221
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "RDF",
-    "name": "ROTA PORTFÖY DOKUZUNCU HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 0.3633
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "RIH",
-    "name": "RE-PİE PORTFÖY İKİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 0.3565
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "DEH",
-    "name": "DESTEK PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.3069
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "SKO",
-    "name": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.2889
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "BDS",
-    "name": "PARDUS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.2829
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "BV1",
-    "name": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.2782
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MTH",
-    "name": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.1884
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "RTH",
-    "name": "RE-PİE PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 0.1335
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "PPH",
-    "name": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.1169
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "RHI",
-    "name": "RE-PİE PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.0459
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "IJI",
-    "name": "İSTANBUL PORTFÖY HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": 0.0232
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "BIY",
-    "name": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": 0.02
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "SRL",
-    "name": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.0892
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "PTO",
-    "name": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.1381
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "LTL",
-    "name": "AHLATCI PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.1617
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "IDI",
-    "name": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.1731
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MAS",
-    "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ SERBEST FON (HSYF)",
-    "return": -0.2459
-  },
-  {
-    "category": "HİSSE SENEDİ FONLARI",
-    "code": "MAC",
-    "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ FONU (HSYF)",
-    "return": -0.4964
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "BHF",
-    "name": "PARDUS PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": 2.1554
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "NTI",
-    "name": "NEO PORTFÖY TEKNOLOJİ VE İNOVASYON DEĞİŞKEN FON",
-    "return": 1.1633
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "RFM",
-    "name": "ROTA PORTFÖY ENERJİ VE METAL FON SEPETİ FONU",
-    "return": 1.1379
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "EBD",
-    "name": "GLOBAL MD PORTFÖY İKİNCİ DEĞİŞKEN FON",
-    "return": 0.7045
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "RTD",
-    "name": "RE-PİE PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
-    "return": 0.6981
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "RGD",
-    "name": "RE-PİE PORTFÖY AGRESİF DEĞİŞKEN FON",
-    "return": 0.6166
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "NKP",
-    "name": "NEO PORTFÖY KAR PAYI ÖDEYEN DEĞİŞKEN FON",
-    "return": 0.5702
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "CPT",
-    "name": "ROTA PORTFÖY ÇİP TEKNOLOJİLERİ DEĞİŞKEN FON",
-    "return": 0.5281
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "ICH",
-    "name": "PARDUS PORTFÖY İKİNCİ DEĞİŞKEN FON",
-    "return": 0.5229
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "RIK",
-    "name": "RE-PİE PORTFÖY İKİNCİ DEĞİŞKEN FON",
-    "return": 0.5146
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "IPB",
-    "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": 0.4915
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "BVV",
-    "name": "BV PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
-    "return": 0.4884
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "RUT",
-    "name": "BV PORTFÖY ROBOTİK VE UZAY TEKNOLOJİLERİ DEĞİŞKEN FON",
-    "return": 0.4624
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "BTK",
-    "name": "BV PORTFÖY TEKNOLOJİ KATILIM FONU",
-    "return": 0.4428
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "EGR",
-    "name": "EMAA BLUE PORTFÖY AGRESİF DEĞİŞKEN FON",
-    "return": 0.3132
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "SVB",
-    "name": "STRATEJİ PORTFÖY AGRESİF DEĞİŞKEN FON",
-    "return": 0.3025
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "AN1",
-    "name": "STRATEJİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": 0.2958
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "GMA",
-    "name": "AZİMUT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": 0.1791
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "MD2",
-    "name": "MT PORTFÖY İKİNCİ DEĞİŞKEN FON",
-    "return": 0.1778
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "PIL",
-    "name": "ROTA PORTFÖY PİL TEKNOLOJİLERİ VE ENERJİ FON SEPETİ FONU",
-    "return": 0.101
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "CPU",
-    "name": "AKTİF PORTFÖY TEKNOLOJİ KATILIM FONU",
-    "return": 0.1002
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "MD1",
-    "name": "MT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": 0.0814
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "IRT",
-    "name": "INVEO PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
-    "return": 0.0776
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "SGK",
-    "name": "EMAA BLUE PORTFÖY BİYOTEKNOLOJİ VE SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
-    "return": 0.0558
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "MTD",
-    "name": "BV PORTFÖY MALZEME TEKNOLOJİLERİ DEĞİŞKEN FON",
-    "return": 0.0491
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "SUC",
-    "name": "ÜNLÜ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
-    "return": -0.0973
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "HIZ",
-    "name": "AZİMUT PORTFÖY DİNAMİK DEĞİŞKEN FON",
-    "return": -0.3816
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "RPM",
-    "name": "ROTA PORTFÖY İLAÇ VE MEDİKAL TEKNOLOJİLERİ DEĞİŞKEN FON",
-    "return": -0.4156
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "ECA",
-    "name": "GLOBAL MD PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": -0.5165
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "BVD",
-    "name": "BV PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": -0.8431
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "GPG",
-    "name": "INVEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-    "return": -1.8384
-  },
-  {
-    "category": "DEĞİŞKEN, FON SEPETİ VE KATILIM FONLARI",
-    "code": "CKF",
-    "name": "ALBARAKA PORTFÖY ÇOKLU VARLIK KATILIM FONU",
-    "return": -5.5926
-  }
-]
+{
+  "schemaVersion": 1,
+  "lastUpdated": [
+    "2026-09-10"
+  ],
+  "source": "manual",
+  "prices": [
+    {
+      "code": "OPJ",
+      "name": "QNB PORTFÖY QNB PARA PİYASASI FONU",
+      "rate": 0.1159
+    },
+    {
+      "code": "PPI",
+      "name": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
+      "rate": 0.1131
+    },
+    {
+      "code": "YLB",
+      "name": "YAPI KREDİ PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1073
+    },
+    {
+      "code": "BRG",
+      "name": "TEB PORTFÖY BURGAN BANK PARA PİYASASI FONU",
+      "rate": 0.1064
+    },
+    {
+      "code": "GKH",
+      "name": "GARANTİ PORTFÖY PARA PİYASASI KATILIM SERBEST FON",
+      "rate": 0.1055
+    },
+    {
+      "code": "YVD",
+      "name": "YAPI KREDİ PORTFÖY İKİNCİ PARA PİYASASI FONU",
+      "rate": 0.1055
+    },
+    {
+      "code": "ENR",
+      "name": "QNB PORTFÖY ENPARA PARA PİYASASI FONU",
+      "rate": 0.1053
+    },
+    {
+      "code": "GTL",
+      "name": "GARANTİ PORTFÖY BİRİNCİ PARA PİYASASI FONU",
+      "rate": 0.1049
+    },
+    {
+      "code": "ZPR",
+      "name": "ZİRAAT PORTFÖY PARA PİYASASI SERBEST FON",
+      "rate": 0.1049
+    },
+    {
+      "code": "IGL",
+      "name": "TEB PORTFÖY ING BANK PARA PİYASASI FONU",
+      "rate": 0.1047
+    },
+    {
+      "code": "BGP",
+      "name": "AK PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
+      "rate": 0.1042
+    },
+    {
+      "code": "FI5",
+      "name": "QNB PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1042
+    },
+    {
+      "code": "PKT",
+      "name": "YAPI KREDİ PORTFÖY PARA PİYASASI KATILIM SERBEST FON",
+      "rate": 0.1033
+    },
+    {
+      "code": "PTE",
+      "name": "TEB PORTFÖY BİRİNCİ PARA PİYASASI SERBEST FON",
+      "rate": 0.1032
+    },
+    {
+      "code": "VK6",
+      "name": "V PORTFÖY VAKIFBANK PARA PİYASASI FONU",
+      "rate": 0.1032
+    },
+    {
+      "code": "ANL",
+      "name": "AK PORTFÖY ALTERNATİF BANK PARA PİYASASI FONU",
+      "rate": 0.1031
+    },
+    {
+      "code": "ZBJ",
+      "name": "ZİRAAT PORTFÖY BAŞAK PARA PİYASASI FONU",
+      "rate": 0.1027
+    },
+    {
+      "code": "ZP8",
+      "name": "ZİRAAT PORTFÖY KEHRİBAR PARA PİYASASI KATILIM SERBEST FON",
+      "rate": 0.1025
+    },
+    {
+      "code": "ZPO",
+      "name": "ZİRAAT PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.1025
+    },
+    {
+      "code": "DIP",
+      "name": "DENİZ PORTFÖY İKİNCİ PARA PİYASASI SERBEST FON",
+      "rate": 0.1024
+    },
+    {
+      "code": "ALE",
+      "name": "AK PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1023
+    },
+    {
+      "code": "AIS",
+      "name": "AK PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.1022
+    },
+    {
+      "code": "DLY",
+      "name": "DENİZ PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1017
+    },
+    {
+      "code": "TI1",
+      "name": "İŞ PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1017
+    },
+    {
+      "code": "DL2",
+      "name": "DENİZ PORTFÖY İKİNCİ PARA PİYASASI FONU",
+      "rate": 0.1016
+    },
+    {
+      "code": "PPJ",
+      "name": "AK PORTFÖY İKİNCİ PARA PİYASASI SERBEST FON",
+      "rate": 0.1012
+    },
+    {
+      "code": "FSF",
+      "name": "FİBA PORTFÖY PARA PİYASASI SERBEST FON",
+      "rate": 0.101
+    },
+    {
+      "code": "DCB",
+      "name": "DENİZ PORTFÖY PARA PİYASASI SERBEST FON",
+      "rate": 0.1009
+    },
+    {
+      "code": "FIL",
+      "name": "FİBA PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1008
+    },
+    {
+      "code": "TZL",
+      "name": "ZİRAAT PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1008
+    },
+    {
+      "code": "YPT",
+      "name": "YAPI KREDİ PORTFÖY PARA PİYASASI SERBEST FON",
+      "rate": 0.1007
+    },
+    {
+      "code": "PPK",
+      "name": "QNB PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.1004
+    },
+    {
+      "code": "GPN",
+      "name": "GARANTİ PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.1002
+    },
+    {
+      "code": "FSK",
+      "name": "QNB PORTFÖY İKİNCİ PARA PİYASASI FONU",
+      "rate": 0.0997
+    },
+    {
+      "code": "GJH",
+      "name": "GARANTİ PORTFÖY PARA PİYASASI SERBEST FON",
+      "rate": 0.0993
+    },
+    {
+      "code": "TKM",
+      "name": "TEB PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.0989
+    },
+    {
+      "code": "VPA",
+      "name": "VAKIF KATILIM PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.0987
+    },
+    {
+      "code": "YIK",
+      "name": "YAPI KREDİ PORTFÖY İKİNCİ PARA PİYASASI SERBEST FON",
+      "rate": 0.0984
+    },
+    {
+      "code": "GNP",
+      "name": "GARANTİ PORTFÖY NEMA PARA PİYASASI FONU",
+      "rate": 0.0981
+    },
+    {
+      "code": "GAL",
+      "name": "GARANTİ PORTFÖY İKİNCİ PARA PİYASASI FONU",
+      "rate": 0.0976
+    },
+    {
+      "code": "HSL",
+      "name": "HSBC PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.0976
+    },
+    {
+      "code": "PTL",
+      "name": "TEB PORTFÖY İKİNCİ PARA PİYASASI FONU",
+      "rate": 0.096
+    },
+    {
+      "code": "DMG",
+      "name": "DENİZ PORTFÖY GÜMÜŞ FON SEPETİ FONU",
+      "rate": 1.5002
+    },
+    {
+      "code": "KMN",
+      "name": "YAPI KREDİ PORTFÖY KIYMETLİ MADENLER KATILIM FONU",
+      "rate": 0.8224
+    },
+    {
+      "code": "TCA",
+      "name": "ZİRAAT PORTFÖY ALTIN KATILIM FONU",
+      "rate": 0.2236
+    },
+    {
+      "code": "HBF",
+      "name": "HSBC PORTFÖY ALTIN FONU",
+      "rate": 0.1816
+    },
+    {
+      "code": "VLT",
+      "name": "VAKIF KATILIM PORTFÖY ALTIN KATILIM FONU",
+      "rate": 0.1752
+    },
+    {
+      "code": "GOL",
+      "name": "GARANTİ PORTFÖY ALTIN KATILIM FONU",
+      "rate": 0.1538
+    },
+    {
+      "code": "KCR",
+      "name": "AK PORTFÖY KÜLÇE ALTIN KATILIM FONU",
+      "rate": 0.1524
+    },
+    {
+      "code": "AFO",
+      "name": "AK PORTFÖY ALTIN FONU",
+      "rate": 0.1517
+    },
+    {
+      "code": "TUA",
+      "name": "TEB PORTFÖY ALTIN FONU",
+      "rate": 0.1497
+    },
+    {
+      "code": "OJK",
+      "name": "QNB PORTFÖY ALTIN FONU",
+      "rate": 0.1493
+    },
+    {
+      "code": "DBA",
+      "name": "DENİZ PORTFÖY ALTIN FONU",
+      "rate": 0.1489
+    },
+    {
+      "code": "GTA",
+      "name": "GARANTİ PORTFÖY ALTIN FONU",
+      "rate": 0.1479
+    },
+    {
+      "code": "YKT",
+      "name": "YAPI KREDİ PORTFÖY ALTIN FONU",
+      "rate": 0.1422
+    },
+    {
+      "code": "TTA",
+      "name": "İŞ PORTFÖY ALTIN FONU",
+      "rate": 0.1285
+    },
+    {
+      "code": "YAY",
+      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
+      "rate": 0.5628
+    },
+    {
+      "code": "AFT",
+      "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
+      "rate": 0.3726
+    },
+    {
+      "code": "AFA",
+      "name": "AK PORTFÖY AMERİKA YABANCI HİSSE SENEDİ FONU",
+      "rate": -0.5629
+    },
+    {
+      "code": "TMG",
+      "name": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
+      "rate": -0.7895
+    },
+    {
+      "code": "AFV",
+      "name": "AK PORTFÖY AVRUPA YABANCI HİSSE SENEDİ FONU",
+      "rate": -0.8458
+    },
+    {
+      "code": "ZBO",
+      "name": "ZİRAAT PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": 0.5273
+    },
+    {
+      "code": "MTG",
+      "name": "DENİZ PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": 0.0558
+    },
+    {
+      "code": "YMH",
+      "name": "YAPI KREDİ PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": -0.0078
+    },
+    {
+      "code": "HMG",
+      "name": "HSBC PYŞ MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": -0.0793
+    },
+    {
+      "code": "MUT",
+      "name": "GARANTİ PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": -0.1068
+    },
+    {
+      "code": "BRR",
+      "name": "AK PORTFÖY İKİNCİ KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1183
+    },
+    {
+      "code": "YHT",
+      "name": "YAPI KREDİ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1172
+    },
+    {
+      "code": "FYT",
+      "name": "QNB PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1165
+    },
+    {
+      "code": "AVT",
+      "name": "AK PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1126
+    },
+    {
+      "code": "HPT",
+      "name": "HSBC PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1091
+    },
+    {
+      "code": "TIV",
+      "name": "İŞ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1072
+    },
+    {
+      "code": "TZV",
+      "name": "ZİRAAT PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1039
+    },
+    {
+      "code": "YAE",
+      "name": "YAPI KREDİ PORTFÖY TLREF'E ENDEKSLİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1009
+    },
+    {
+      "code": "VKT",
+      "name": "V PORTFÖY VAKIFBANK KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.095
+    },
+    {
+      "code": "DBK",
+      "name": "DENİZ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0948
+    },
+    {
+      "code": "TGT",
+      "name": "GARANTİ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0932
+    },
+    {
+      "code": "GUV",
+      "name": "GARANTİ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0838
+    },
+    {
+      "code": "TFU",
+      "name": "İŞ PORTFÖY TÜFE'YE ENDEKSLİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0775
+    },
+    {
+      "code": "YVB",
+      "name": "YAPI KREDİ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0756
+    },
+    {
+      "code": "DUV",
+      "name": "DENİZ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0654
+    },
+    {
+      "code": "AK2",
+      "name": "AK PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0645
+    },
+    {
+      "code": "PPS",
+      "name": "PHİLLİP PORTFÖY BİRİNCİ SERBEST FON",
+      "rate": 2.2959
+    },
+    {
+      "code": "TLY",
+      "name": "TERA PORTFÖY BİRİNCİ SERBEST FON",
+      "rate": 0.684
+    },
+    {
+      "code": "RTP",
+      "name": "RE-PİE PORTFÖY BİRİNCİ SERBEST FON",
+      "rate": 0.4491
+    },
+    {
+      "code": "ODP",
+      "name": "OSMANLI PORTFÖY BİRİNCİ SERBEST FON",
+      "rate": 0.4122
+    },
+    {
+      "code": "BS1",
+      "name": "AHLATCI PORTFÖY BİRİNCİ SERBEST FON",
+      "rate": 0.2961
+    },
+    {
+      "code": "BSM",
+      "name": "GLOBAL MD PORTFÖY BERRAK SERBEST FON",
+      "rate": 0.266
+    },
+    {
+      "code": "MOZ",
+      "name": "EMAA BLUE PORTFÖY MOZAİK SERBEST FON",
+      "rate": 0.2269
+    },
+    {
+      "code": "RBR",
+      "name": "RE-PİE PORTFÖY BİRİNCİ KATILIM SERBEST FON",
+      "rate": 0.0516
+    },
+    {
+      "code": "SKZ",
+      "name": "NEO PORTFÖY SEKİZİNCİ SERBEST FON",
+      "rate": 0.011
+    },
+    {
+      "code": "GZM",
+      "name": "GLOBAL MD PORTFÖY DURU SERBEST FON",
+      "rate": -0.1082
+    },
+    {
+      "code": "IHC",
+      "name": "INVEO PORTFÖY INTER SERBEST FON",
+      "rate": -1.696
+    },
+    {
+      "code": "GBC",
+      "name": "AZİMUT PORTFÖY YABANCI HİSSE SENEDİ FONU",
+      "rate": -0.2433
+    },
+    {
+      "code": "GBG",
+      "name": "INVEO PORTFÖY G-20 ÜLKELERİ YABANCI HİSSE SENEDİ FONU",
+      "rate": -0.5035
+    },
+    {
+      "code": "ARE",
+      "name": "İSTANBUL PORTFÖY YABANCI HİSSE SENEDİ FONU",
+      "rate": -0.9148
+    },
+    {
+      "code": "KPF",
+      "name": "NEO PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": 0.0856
+    },
+    {
+      "code": "PPM",
+      "name": "PİRAMİT PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": 0.0711
+    },
+    {
+      "code": "NSH",
+      "name": "NUROL PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON (HSYF)",
+      "rate": 0.0267
+    },
+    {
+      "code": "IRB",
+      "name": "İSTANBUL PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON (HSYF)",
+      "rate": 0.0216
+    },
+    {
+      "code": "NMU",
+      "name": "NUROL PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": 0.0175
+    },
+    {
+      "code": "LPH",
+      "name": "STATECH PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON (HSYF)",
+      "rate": 0.0032
+    },
+    {
+      "code": "BHI",
+      "name": "BV PORTFÖY MUTLAK GETİRİ HEDEFLİ SERBEST FON (HSYF)",
+      "rate": -0.0183
+    },
+    {
+      "code": "TP2",
+      "name": "TERA PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1318
+    },
+    {
+      "code": "DAP",
+      "name": "DESTEK PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1131
+    },
+    {
+      "code": "MT2",
+      "name": "MT PORTFÖY PARA PİYASASI SERBEST FON",
+      "rate": 0.1087
+    },
+    {
+      "code": "MPL",
+      "name": "MT PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.108
+    },
+    {
+      "code": "TLV",
+      "name": "TERA PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.1065
+    },
+    {
+      "code": "RBP",
+      "name": "RE-PİE PORTFÖY BİRİNCİ PARA PİYASASI FONU",
+      "rate": 0.1062
+    },
+    {
+      "code": "PPN",
+      "name": "NUROL PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.105
+    },
+    {
+      "code": "NSP",
+      "name": "NUROL PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.1023
+    },
+    {
+      "code": "AC4",
+      "name": "PARDUS PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.1023
+    },
+    {
+      "code": "EP1",
+      "name": "EMLAK KATILIM PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.0998
+    },
+    {
+      "code": "BVF",
+      "name": "BV PORTFÖY PARA PİYASASI FONU",
+      "rate": 0.0979
+    },
+    {
+      "code": "OMT",
+      "name": "OSMANLI PORTFÖY PARA PİYASASI KATILIM FONU",
+      "rate": 0.0941
+    },
+    {
+      "code": "MBR",
+      "name": "MT PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1758
+    },
+    {
+      "code": "BBF",
+      "name": "PARDUS PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1212
+    },
+    {
+      "code": "TRJ",
+      "name": "TERA PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.1108
+    },
+    {
+      "code": "IST",
+      "name": "İSTANBUL PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.0982
+    },
+    {
+      "code": "NJR",
+      "name": "NUROL PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+      "rate": 0.091
+    },
+    {
+      "code": "BGR",
+      "name": "AK PORTFÖY BIST GYO ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 2.7327
+    },
+    {
+      "code": "GKV",
+      "name": "GARANTİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 2.2509
+    },
+    {
+      "code": "ZPE",
+      "name": "ZİRAAT PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 2.2133
+    },
+    {
+      "code": "DKH",
+      "name": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 2.1359
+    },
+    {
+      "code": "KH1",
+      "name": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.9304
+    },
+    {
+      "code": "YLY",
+      "name": "YAPI KREDİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.7184
+    },
+    {
+      "code": "YHK",
+      "name": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.4856
+    },
+    {
+      "code": "KVT",
+      "name": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.3913
+    },
+    {
+      "code": "MLT",
+      "name": "DENİZ PORTFÖY MELTEM HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 1.3881
+    },
+    {
+      "code": "GNS",
+      "name": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.3513
+    },
+    {
+      "code": "VHS",
+      "name": "VAKIF KATILIM PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.1659
+    },
+    {
+      "code": "YHS",
+      "name": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.9841
+    },
+    {
+      "code": "AK3",
+      "name": "AK PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.9656
+    },
+    {
+      "code": "DTL",
+      "name": "DENİZ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.8484
+    },
+    {
+      "code": "GHS",
+      "name": "GARANTİ PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.7814
+    },
+    {
+      "code": "DAH",
+      "name": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.7773
+    },
+    {
+      "code": "GKG",
+      "name": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.6738
+    },
+    {
+      "code": "TYH",
+      "name": "TEB PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.6496
+    },
+    {
+      "code": "BIG",
+      "name": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.5608
+    },
+    {
+      "code": "IDH",
+      "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.5294
+    },
+    {
+      "code": "FYD",
+      "name": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.4667
+    },
+    {
+      "code": "TI2",
+      "name": "İŞ PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.389
+    },
+    {
+      "code": "YAS",
+      "name": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.37
+    },
+    {
+      "code": "YHZ",
+      "name": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.3358
+    },
+    {
+      "code": "HVS",
+      "name": "HSBC PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.305
+    },
+    {
+      "code": "DHJ",
+      "name": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.2563
+    },
+    {
+      "code": "GRT",
+      "name": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.1881
+    },
+    {
+      "code": "SSS",
+      "name": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ Ş. HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.1291
+    },
+    {
+      "code": "GOH",
+      "name": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.1003
+    },
+    {
+      "code": "BDY",
+      "name": "AK PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.0896
+    },
+    {
+      "code": "HIH",
+      "name": "GARANTİ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.0539
+    },
+    {
+      "code": "ZJL",
+      "name": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.0267
+    },
+    {
+      "code": "ZTV",
+      "name": "ZİRAAT PORTFÖY TÜRKİYE VARLIK FONU İŞTİRAKLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.0057
+    },
+    {
+      "code": "YHB",
+      "name": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.0033
+    },
+    {
+      "code": "TZD",
+      "name": "ZİRAAT PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.2772
+    },
+    {
+      "code": "SAS",
+      "name": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.4133
+    },
+    {
+      "code": "DHV",
+      "name": "DENİZ PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": -0.5155
+    },
+    {
+      "code": "ICZ",
+      "name": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.5429
+    },
+    {
+      "code": "TTE",
+      "name": "İŞ PORTFÖY BIST TEKNOLOJİ ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.8287
+    },
+    {
+      "code": "TI3",
+      "name": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -1.2243
+    },
+    {
+      "code": "ADP",
+      "name": "AK PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -2.2076
+    },
+    {
+      "code": "YZH",
+      "name": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -2.3264
+    },
+    {
+      "code": "YCP",
+      "name": "YAPI KREDİ PORTFÖY BANKACILIK SEKTÖRÜ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": -2.3277
+    },
+    {
+      "code": "GBJ",
+      "name": "GARANTİ PORTFÖY BANKACILIK SEKTÖRÜ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": -2.3684
+    },
+    {
+      "code": "DDA",
+      "name": "DENİZ PORTFÖY BANKACILIK SEKTÖRÜ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": -2.3996
+    },
+    {
+      "code": "TAU",
+      "name": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -2.4898
+    },
+    {
+      "code": "NKT",
+      "name": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 2.181
+    },
+    {
+      "code": "MTK",
+      "name": "MT PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 2.043
+    },
+    {
+      "code": "DOH",
+      "name": "TERA PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 1.4283
+    },
+    {
+      "code": "GLG",
+      "name": "AKTİF PORTFÖY CAPITAL HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 1.4103
+    },
+    {
+      "code": "NUH",
+      "name": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.3794
+    },
+    {
+      "code": "NLE",
+      "name": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 1.2955
+    },
+    {
+      "code": "THF",
+      "name": "TERA PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.9722
+    },
+    {
+      "code": "MHF",
+      "name": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.9515
+    },
+    {
+      "code": "ONE",
+      "name": "AKTİF PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 0.6549
+    },
+    {
+      "code": "KHA",
+      "name": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.6206
+    },
+    {
+      "code": "MKA",
+      "name": "MARMARA CAPITAL PORTFÖY KATILIM HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.609
+    },
+    {
+      "code": "KOT",
+      "name": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.6064
+    },
+    {
+      "code": "HRZ",
+      "name": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.5842
+    },
+    {
+      "code": "NPH",
+      "name": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.5221
+    },
+    {
+      "code": "RDF",
+      "name": "ROTA PORTFÖY DOKUZUNCU HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 0.3633
+    },
+    {
+      "code": "RIH",
+      "name": "RE-PİE PORTFÖY İKİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 0.3565
+    },
+    {
+      "code": "DEH",
+      "name": "DESTEK PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.3069
+    },
+    {
+      "code": "SKO",
+      "name": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.2889
+    },
+    {
+      "code": "BDS",
+      "name": "PARDUS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.2829
+    },
+    {
+      "code": "BV1",
+      "name": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.2782
+    },
+    {
+      "code": "MTH",
+      "name": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.1884
+    },
+    {
+      "code": "RTH",
+      "name": "RE-PİE PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 0.1335
+    },
+    {
+      "code": "PPH",
+      "name": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.1169
+    },
+    {
+      "code": "RHI",
+      "name": "RE-PİE PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.0459
+    },
+    {
+      "code": "IJI",
+      "name": "İSTANBUL PORTFÖY HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": 0.0232
+    },
+    {
+      "code": "BIY",
+      "name": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": 0.02
+    },
+    {
+      "code": "SRL",
+      "name": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.0892
+    },
+    {
+      "code": "PTO",
+      "name": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.1381
+    },
+    {
+      "code": "LTL",
+      "name": "AHLATCI PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.1617
+    },
+    {
+      "code": "IDI",
+      "name": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.1731
+    },
+    {
+      "code": "MAS",
+      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ SERBEST FON (HSYF)",
+      "rate": -0.2459
+    },
+    {
+      "code": "MAC",
+      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ FONU (HSYF)",
+      "rate": -0.4964
+    },
+    {
+      "code": "BHF",
+      "name": "PARDUS PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": 2.1554
+    },
+    {
+      "code": "NTI",
+      "name": "NEO PORTFÖY TEKNOLOJİ VE İNOVASYON DEĞİŞKEN FON",
+      "rate": 1.1633
+    },
+    {
+      "code": "RFM",
+      "name": "ROTA PORTFÖY ENERJİ VE METAL FON SEPETİ FONU",
+      "rate": 1.1379
+    },
+    {
+      "code": "EBD",
+      "name": "GLOBAL MD PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "rate": 0.7045
+    },
+    {
+      "code": "RTD",
+      "name": "RE-PİE PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+      "rate": 0.6981
+    },
+    {
+      "code": "RGD",
+      "name": "RE-PİE PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "rate": 0.6166
+    },
+    {
+      "code": "NKP",
+      "name": "NEO PORTFÖY KAR PAYI ÖDEYEN DEĞİŞKEN FON",
+      "rate": 0.5702
+    },
+    {
+      "code": "CPT",
+      "name": "ROTA PORTFÖY ÇİP TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "rate": 0.5281
+    },
+    {
+      "code": "ICH",
+      "name": "PARDUS PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "rate": 0.5229
+    },
+    {
+      "code": "RIK",
+      "name": "RE-PİE PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "rate": 0.5146
+    },
+    {
+      "code": "IPB",
+      "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": 0.4915
+    },
+    {
+      "code": "BVV",
+      "name": "BV PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+      "rate": 0.4884
+    },
+    {
+      "code": "RUT",
+      "name": "BV PORTFÖY ROBOTİK VE UZAY TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "rate": 0.4624
+    },
+    {
+      "code": "BTK",
+      "name": "BV PORTFÖY TEKNOLOJİ KATILIM FONU",
+      "rate": 0.4428
+    },
+    {
+      "code": "EGR",
+      "name": "EMAA BLUE PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "rate": 0.3132
+    },
+    {
+      "code": "SVB",
+      "name": "STRATEJİ PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "rate": 0.3025
+    },
+    {
+      "code": "AN1",
+      "name": "STRATEJİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": 0.2958
+    },
+    {
+      "code": "GMA",
+      "name": "AZİMUT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": 0.1791
+    },
+    {
+      "code": "MD2",
+      "name": "MT PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "rate": 0.1778
+    },
+    {
+      "code": "PIL",
+      "name": "ROTA PORTFÖY PİL TEKNOLOJİLERİ VE ENERJİ FON SEPETİ FONU",
+      "rate": 0.101
+    },
+    {
+      "code": "CPU",
+      "name": "AKTİF PORTFÖY TEKNOLOJİ KATILIM FONU",
+      "rate": 0.1002
+    },
+    {
+      "code": "MD1",
+      "name": "MT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": 0.0814
+    },
+    {
+      "code": "IRT",
+      "name": "INVEO PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+      "rate": 0.0776
+    },
+    {
+      "code": "SGK",
+      "name": "EMAA BLUE PORTFÖY BİYOTEKNOLOJİ VE SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+      "rate": 0.0558
+    },
+    {
+      "code": "MTD",
+      "name": "BV PORTFÖY MALZEME TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "rate": 0.0491
+    },
+    {
+      "code": "SUC",
+      "name": "ÜNLÜ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+      "rate": -0.0973
+    },
+    {
+      "code": "HIZ",
+      "name": "AZİMUT PORTFÖY DİNAMİK DEĞİŞKEN FON",
+      "rate": -0.3816
+    },
+    {
+      "code": "RPM",
+      "name": "ROTA PORTFÖY İLAÇ VE MEDİKAL TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "rate": -0.4156
+    },
+    {
+      "code": "ECA",
+      "name": "GLOBAL MD PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": -0.5165
+    },
+    {
+      "code": "BVD",
+      "name": "BV PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": -0.8431
+    },
+    {
+      "code": "GPG",
+      "name": "INVEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "rate": -1.8384
+    },
+    {
+      "code": "CKF",
+      "name": "ALBARAKA PORTFÖY ÇOKLU VARLIK KATILIM FONU",
+      "rate": -5.5926
+    }
+  ]
+}
